@@ -1,0 +1,2584 @@
+[
+{
+"id": "p039wd0f",
+"live": false,
+"type": "episode",
+"title": "War and Peace",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07k4bpf.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07k4btl.jpg"
+},
+"labels": {
+"category": "Period Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p039wcdk",
+"guidance": true,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "Russia, 1805. Napoleon Bonaparte's French army has invaded Austria, drawing Russia into the war against him. Everyone in aristocratic Russian society is rattled - except hot-headed Pierre Bezukhov, who admires the French emperor's politics. Pierre is an outcast in society, and the illegitimate son of one of Russia's wealthiest men. But now his father is close to death and his scheming relatives are vying for the old man's fortune - though they expect Pierre to be left with nothing.\n\nPierre's dearest friend Prince Andrei Bolkonsky is excited for war with Napoleon. For him it offers a chance to find purpose in life by fighting on the front line. Unhappily married to a beautiful socialite, Lise, he plans to leave her behind at his fierce father's remote country estate and seek military glory for himself. The army under Andrei's wise mentor General Kutuzov expects a swift victory. But when the French unexpectedly prove their military might, Andrei is thrust into a dangerous battle.\n\nPierre's other great friend is Natasha Rostova - a beautiful, lively young woman growing up fast and desperate to experience more of the world. When she sees love blossom between her brother Nikolai and his childhood sweetheart Sonya, she is inspired for the first time with romantic thoughts of her own. As the men ride off to war, Natasha and Sonya are left behind to wait and wonder if they will ever return.",
+"small": "Russia is drawn into war with France, changing the lives of three young people forever.",
+"medium": "Drama series set in Russia in the early 19th century, based on Tolstoy's novel. Russia is drawn into war with France, changing the lives of three young people forever.",
+"editorial": "One of the greatest novels of all time. Starring Lily James and James Norton.",
+"programme_small": "Leo Tolstoy’s epic story of life, love and loss in nineteenth-century Russia."
+},
+"versions": [
+{
+"hd": true,
+"id": "b06x5mmg",
+"uhd": false,
+"kind": "editorial",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3447,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3210,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3210,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M27S"
+},
+"guidance": {
+"id": "WV",
+"text": {
+"large": "Contains scenes of moderate violence.",
+"small": "Has guidance",
+"medium": "Contains moderate violence."
+}
+},
+"availability": {
+"end": "2020-07-11T08:00:00Z",
+"start": "2019-07-02T11:42:59Z",
+"remaining": {
+"text": "Available for 10 months"
+}
+},
+"credits_start": 3534,
+"first_broadcast": "3 Jan 2016",
+"first_broadcast_date_time": "2016-01-03T00:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "p039wcdk",
+"tleo_type": "series",
+"categories": [
+"drama-and-soaps",
+"drama-classic-and-period"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "3 Jan 2016",
+"related_links": [
+{
+"id": "p03dffdr",
+"url": "http://www.bbc.co.uk/programmes/profiles/pcqw2nXWtYmwZ4SL1YTDRB/characters",
+"kind": "priority_content",
+"type": "link",
+"title": "Meet the characters"
+}
+],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2016-01-03T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The epic, heartbreaking story of love and loss",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "b08y7p10",
+"live": false,
+"type": "episode",
+"title": "In the Dark",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzr7d.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzrj3.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b08ygbvr",
+"guidance": true,
+"slice_id": "b08ygbxm",
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "As DI Helen Weeks grapples apprehensively with pregnancy, she is compelled to return to her loathed rural home town of Polesford, Derbyshire. Two girls have been abducted, and the man arrested is married to Helen's childhood best friend, Linda. But is he guilty? And why is Helen so desperate to come to Linda's aid after avoiding Polesford for all these years?",
+"small": "As DI Helen Weeks grapples with pregnancy, she undertakes a very personal abduction case.",
+"medium": "Drama series. As DI Helen Weeks grapples with pregnancy, she undertakes a very personal abduction case.",
+"editorial": "DI Helen Weeks is drawn into a complex abduction case involving suspects close to home.",
+"programme_small": "DI Helen Weeks grapples with pregnancy as she undertakes a very personal abduction case."
+},
+"versions": [
+{
+"hd": true,
+"id": "b08y7p09",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3208,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2995,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2995,
+"system": "dax"
+}
+],
+"download": false,
+"duration": {
+"text": "55 mins",
+"value": "PT55M28.280S"
+},
+"guidance": {
+"id": "L1",
+"text": {
+"large": "Contains some strong language.",
+"small": "Has guidance",
+"medium": "Contains some strong language."
+}
+},
+"availability": {
+"end": "2020-04-10T08:00:00Z",
+"start": "2019-04-11T08:00:00Z",
+"remaining": {
+"text": "Available for 7 months"
+}
+},
+"credits_start": 3301,
+"first_broadcast": "9pm 11 Jul 2017",
+"first_broadcast_date_time": "2017-07-11T20:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b08ygbxm",
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "11 Jul 2017",
+"related_links": [],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"slice_subtitle": "Episode 1",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2017-07-11T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The past can't always be left behind...",
+"lexical_sort_letter": "I",
+"requires_tv_licence": true,
+"numeric_tleo_position": 2
+},
+{
+"id": "b076v9fd",
+"live": false,
+"type": "episode",
+"title": "Undercover",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzw1d.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzw3w.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b076vdbc",
+"guidance": true,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "For the past twenty years Maya Cobbina has defended Rudy Jones, a man falsely imprisoned for murder. Today he is to be executed by lethal injection in Louisiana. Rudy's parting words are \"Go big\" - he wants her to change the system that allows such injustices to occur. \n\nWith Rudy's appeal ringing in her ears, Maya returns to London and discovers that she's been pegged to take the role of director of public prosecutions, a prominent position that might allow her to finally bring to justice the death of her friend Michael Antwi, a charismatic anti-racism campaigner. \n\nMaya's husband Nick Johnson is a man dedicated to his wife and children. When a hidden past threatens to destroy his world, to what lengths will he go to protect his family?",
+"small": "Top lawyer Maya fights for the truth, while her husband will do anything to conceal it.",
+"medium": "Drama series. Defence lawyer Maya can finally uncover the truth of an old miscarriage of justice, while husband Nick will go to any lengths to conceal the truth about his own past.",
+"editorial": "A successful lawyer pursues the truth - while her husband does all he can to conceal it.",
+"programme_small": "A defence lawyer tries to finally uncover the truth of an old miscarriage of justice."
+},
+"versions": [
+{
+"hd": true,
+"id": "b076v9f9",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3416,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3182,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3182,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT58M56S"
+},
+"guidance": {
+"id": "D1",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2020-04-17T08:00:00Z",
+"start": "2019-04-18T08:00:00Z",
+"remaining": {
+"text": "Available for 8 months"
+}
+},
+"credits_start": 3507,
+"first_broadcast": "9pm 3 Apr 2016",
+"first_broadcast_date_time": "2016-04-03T20:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b076vdbc",
+"tleo_type": "series",
+"categories": [
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "3 Apr 2016",
+"related_links": [
+{
+"id": "p03qxxgg",
+"url": "http://www.bbc.co.uk/programmes/profiles/1FJkWS5CW0S3Mdw6zCwcGRK/meet-the-characters",
+"kind": "priority_content",
+"type": "link",
+"title": "Meet the characters"
+}
+],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2016-04-03T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Love, lies and a fight for justice",
+"lexical_sort_letter": "U",
+"requires_tv_licence": true
+},
+{
+"id": "b039ftc5",
+"live": false,
+"type": "episode",
+"title": "What Remains",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzr32.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzr4c.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b039ft8x",
+"guidance": true,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "When Michael and his heavily pregnant partner Vidya move into a flat in Coulthard Street, they are shocked to discover the decomposed body of a woman in the loft. \n\nWith a week left until retirement, Detective Len Harper begins to question her neighbours. He discovers that even though she had not been seen for over two years, nobody had raised an alarm or even noticed that she was gone.\n\nLen must work hard to uncover the secrets of the residents and give the deceased the attention in death she so sorely missed in life.",
+"small": "Detective Len Harper investigates when a couple discover a decomposed body in their loft.",
+"medium": "Drama. A woman's decomposed body is discovered in a loft. Detective Len Harper questions her neighbours, trying to uncover who she was and why nobody had noticed she was gone.",
+"editorial": "Melissa’s body has been lying in her flat for two years. Why did nobody raise the alarm?",
+"programme_small": "Detective Len Harper investigates when a couple discover a body in their new flat."
+},
+"versions": [
+{
+"hd": true,
+"id": "b039ftbm",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3418,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3184,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3184,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT58M58.040S"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2020-04-10T08:00:00Z",
+"start": "2019-04-11T08:00:00Z",
+"remaining": {
+"text": "Available for 7 months"
+}
+},
+"credits_start": 3511,
+"first_broadcast": "9pm 25 Aug 2013",
+"first_broadcast_date_time": "2013-08-25T20:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b039ft8x",
+"tleo_type": "series",
+"categories": [
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "25 Aug 2013",
+"related_links": [],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2013-08-25T00:00:00.000Z",
+"editorial_subtitle": "Box Set. What secrets lurk behind closed doors?",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true
+},
+{
+"id": "p02qxlfl",
+"live": false,
+"type": "episode",
+"title": "Stonemouth",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzxpm.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzxt5.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p02qxkvz",
+"guidance": true,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "Stewart Gilmour arrives home in Stonemouth after two years in exile. Sad circumstances bring him back: his best friend has died, apparently at his own hands. Convinced it can't be suicide, Stewart resolves to find out what really happened, which means he must face the girl he left behind.\n\nBased on the best-selling novel by Iain Banks.",
+"small": "Following the apparent suicide of his best friend, Stewart Gilmour returns to Stonemouth.",
+"medium": "Romantic mystery. Following the apparent suicide of his best friend, Stewart Gilmour returns to Stonemouth, where he must face the girl he left behind.",
+"editorial": "Stewart is back home and forced to face up to his past – and the girl he left behind.",
+"programme_small": "When you're the least welcome person in town, how do you unravel the truth?"
+},
+"versions": [
+{
+"hd": true,
+"id": "b05zlwfp",
+"uhd": false,
+"kind": "editorial",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3366,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3137,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3137,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "58 mins",
+"value": "PT58M5.880S"
+},
+"guidance": {
+"id": "D1L1",
+"text": {
+"large": "Contains some strong language and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some strong language and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2020-04-17T08:00:00Z",
+"start": "2019-04-18T08:00:00Z",
+"remaining": {
+"text": "Available for 8 months"
+}
+},
+"credits_start": 3453,
+"first_broadcast": "8 Jun 2015",
+"first_broadcast_date_time": "2015-06-08T00:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "p02qxkvz",
+"tleo_type": "series",
+"categories": [
+"drama-and-soaps",
+"scotland"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one_scotland",
+"titles": {
+"large": "BBC One Scotland",
+"small": "BBC One",
+"medium": "BBC One Scotland"
+},
+"attribution": "bbc_one_scotland"
+},
+"release_date": "8 Jun 2015",
+"related_links": [
+{
+"id": "p02t6lcn",
+"url": "http://www.bbc.co.uk/programmes/profiles/M2wYQGrMnQ0r0gSGwr1YWF/characters",
+"kind": "priority_content",
+"type": "link",
+"title": "Meet the characters"
+}
+],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2015-06-08T00:00:00.000Z",
+"editorial_subtitle": "A romantic mystery about love, loyalty and vengeance",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "b07r1f0h",
+"live": false,
+"type": "episode",
+"title": "One of Us",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzr1v.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzr29.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b07r26py",
+"guidance": true,
+"subtitle": "1. The Storm",
+"synopses": {
+"large": "A horrific double murder shocks two families living in isolated rural Scotland. In the aftermath of the tragedy, they are faced with a terrible dilemma when the murderer arrives on their doorstep one stormy night. His fate lies in their hands - will they show mercy or get their revenge?",
+"small": "After a horrific double murder, the families involved are faced with a terrible dilemma.",
+"medium": "Drama series. A horrific double murder shocks two families living in isolated rural Scotland. In the aftermath of the tragedy, they are faced with a terrible dilemma.",
+"editorial": "What happens when the lines of good and bad blur? From the writers of Baptiste.",
+"programme_small": "Thriller following the aftermath of a horrific double murder"
+},
+"versions": [
+{
+"hd": true,
+"id": "b07r1dz7",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3396,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3165,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3165,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT58M36.400S"
+},
+"guidance": {
+"id": "D1",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2020-04-10T08:00:00Z",
+"start": "2019-04-11T08:00:00Z",
+"remaining": {
+"text": "Available for 7 months"
+}
+},
+"credits_start": 3492,
+"first_broadcast": "9pm 23 Aug 2016",
+"first_broadcast_date_time": "2016-08-23T20:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b07r26py",
+"tleo_type": "series",
+"categories": [
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "23 Aug 2016",
+"related_links": [],
+"original_title": "The Storm",
+"programme_type": "narrative",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2016-08-23T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The lasting impact of a shocking murder",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true
+},
+{
+"id": "b0074s1f",
+"live": false,
+"type": "episode",
+"title": "Bleak House",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jwwrt.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jwww6.jpg"
+},
+"labels": {
+"category": "Period Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007z7jx",
+"guidance": false,
+"subtitle": "1. Bleak House Episode 1",
+"synopses": {
+"large": "Andrew Davies' adaptation of the Charles Dickens classic tale. Young orphan Esther Summerson is brought to the High Court of Chancery, where she is thrown together with two wards of the court, Richard Carstone and Ada Clare. Both are caught up in the infamous suit of Jarndyce and Jarndyce, which brings nothing but ruin and despair to all it touches. Esther, Richard and Ada are sent to live at Bleak House, where they receive a friendly welcome from their rich guardian John Jarndyce.",
+"small": "Young orphan Esther Summerson is brought to the High Court of Chancery.",
+"medium": "Andrew Davies' adaptation of the Charles Dickens classic tale. Esther, Richard and Ada witness a tragedy and the elegant life of the beautiful Lady Dedlock is turned upside down.",
+"editorial": "The infamous lawsuit of Jarndyce and Jarndyce brings ruin and despair to all it touches.",
+"programme_small": "Andrew Davies' adaptation of the classic Charles Dickens tale."
+},
+"versions": [
+{
+"hd": true,
+"id": "b000hx9c",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3292,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3071,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3071,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT56M52.040S"
+},
+"availability": {
+"end": "2019-12-11T09:00:00Z",
+"start": "2018-12-12T09:00:00Z",
+"remaining": {
+"text": "Available for 3 months"
+}
+},
+"credits_start": 3352,
+"first_broadcast": "27 Oct 2005",
+"first_broadcast_date_time": "2005-10-27T00:00:00.000Z"
+},
+{
+"hd": false,
+"id": "p07747zx",
+"uhd": false,
+"kind": "audio-described",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3292,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3071,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3071,
+"system": "dax"
+}
+],
+"download": false,
+"duration": {
+"text": "57 mins",
+"value": "PT56M52.040S"
+},
+"availability": {
+"end": "2019-12-11T09:00:00Z",
+"start": "2019-04-22T14:26:29Z",
+"remaining": {
+"text": "Available for 3 months"
+}
+},
+"first_broadcast": "27 Oct 2005",
+"first_broadcast_date_time": "2005-10-27T00:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b007z7jx",
+"tleo_type": "series",
+"categories": [
+"archive",
+"audio-described",
+"drama-and-soaps",
+"drama-classic-and-period"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "27 Oct 2005",
+"related_links": [],
+"original_title": "Bleak House Episode 1",
+"programme_type": "narrative",
+"audio_described": true,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2005-10-27T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The all-star adaptation of the Dickens classic",
+"lexical_sort_letter": "B",
+"requires_tv_licence": true
+},
+{
+"id": "b0074r75",
+"live": false,
+"type": "episode",
+"tests": [],
+"title": "Pride and Prejudice",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07k7d72.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07k7f44.jpg"
+},
+"labels": {
+"category": "Period Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b009016x",
+"guidance": false,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "Colin Firth stars as Mr Darcy in this iconic BBC adaptation of Pride and Prejudice by writer Andrew Davies. The arrival of the wealthy Mr Bingley causes great excitement within the Bennet family. One of her five daughters, Mrs Bennet feels, is sure to capture the heart of the wealthy young aristocrat. Meanwhile the wilful and opinionated Elizabeth Bennet matches wits with haughty Mr. Darcy. (1995)",
+"small": "Mrs Bennet is anxious to marry off one of her five daughters to newcomer Mr Bingley.",
+"medium": "The arrival of Mr Bingley causes great excitement within the Bennet family. One of her five daughters, Mrs Bennet feels, is sure to capture the heart of the young aristocrat.",
+"editorial": "The spectacular adaptation that started a wave of Austen-mania. With Colin Firth.",
+"programme_small": "Award-winning adaptation of Jane Austen's classic romance."
+},
+"versions": [
+{
+"hd": false,
+"id": "p06f5jgg",
+"uhd": false,
+"kind": "iplayer-version",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3075,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2876,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2876,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "53 mins",
+"value": "PT53M15S"
+},
+"availability": {
+"end": "2020-01-25T06:00:00Z",
+"start": "2019-04-02T15:21:53Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 3136,
+"first_broadcast": "27 Sep 1995",
+"first_broadcast_date_time": "1995-09-27T00:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b009016x",
+"tleo_type": "series",
+"categories": [
+"archive",
+"drama-and-soaps",
+"drama-classic-and-period"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "27 Sep 1995",
+"related_links": [],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "1995-09-27T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Miss Bennet. Mr Darcy. The classic love story",
+"lexical_sort_letter": "P",
+"requires_tv_licence": true
+},
+{
+"id": "b008lzfl",
+"live": false,
+"type": "episode",
+"title": "Sense and Sensibility",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jwx1x.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jwx69.jpg"
+},
+"labels": {
+"category": "Period Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b008pcyd",
+"guidance": false,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "Dramatisation of Jane Austen's novel. Mrs Dashwood is devastated when her husband dies. His estate and fortunte are bequeathed by law to his sone from a previous marriage. The Dashwoods start a new life in Devonshire. The eldest daughter, Eleanor, is upset to leave her sweetheart, while her younger sister, Marianne, quickly finds she has suitors to choose from.",
+"small": "Dramatisation of Jane Austen's novel. The Dashwoods start a new life in Devonshire.",
+"medium": "Dramatisation of Jane Austen's novel. The Dashwoods start a new life in Devonshire where, one of the sisters, Marianne, quickly finds she has suitors to choose from.",
+"editorial": "Claire Skinner, Hattie Morahan and Dominic Cooper star in Jane Austen’s much-loved story.",
+"programme_small": "Adaptation of Jane Austen's classic novel about the Dashwood family"
+},
+"versions": [
+{
+"hd": false,
+"id": "b008lzf7",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3322,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3098,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3098,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "57 mins",
+"value": "PT57M22.040S"
+},
+"availability": {
+"end": "2019-12-11T09:00:00Z",
+"start": "2018-12-12T09:00:00Z",
+"remaining": {
+"text": "Available for 3 months"
+}
+},
+"credits_start": 3416,
+"first_broadcast": "9:10pm 1 Jan 2008",
+"first_broadcast_date_time": "2008-01-01T21:10:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b008pcyd",
+"tleo_type": "series",
+"categories": [
+"archive",
+"drama-and-soaps",
+"drama-classic-and-period"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "1 Jan 2008",
+"related_links": [],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2008-01-01T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The life and loves of the Dashwood sisters",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true
+},
+{
+"id": "b09trftd",
+"live": false,
+"type": "episode",
+"title": "Shakespeare & Hathaway - Private Investigators",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jxkk2.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jxkd8.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b09trrn9",
+"guidance": false,
+"slice_id": "b09trswf",
+"subtitle": "Series 1: 1. O Brave New World",
+"synopses": {
+"large": "Frank Hathaway finds an unlikely partner in Lu Shakespeare when the pair are thrown together to catch a killer and clear Lu's name.",
+"small": "Frank Hathaway finds an unlikely partner in Lu Shakespeare during a murder case.",
+"medium": "Comedy drama about two private detectives. Frank Hathaway finds an unlikely partner in Lu Shakespeare when the pair try to catch a killer and clear Lu's name.",
+"editorial": "Mark Benton and Jo Joyner play private investigators thrown together to catch a killer.",
+"programme_small": "Comedy drama about private detectives who investigate crime in Stratford-upon-Avon."
+},
+"versions": [
+{
+"hd": true,
+"id": "b09trfl3",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 2589,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2438,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2438,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "45 mins",
+"value": "PT45M9.040S"
+},
+"availability": {
+"end": "2020-01-27T09:00:00Z",
+"start": "2019-01-28T09:00:00Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 2668,
+"first_broadcast": "2:15pm 26 Feb 2018",
+"first_broadcast_date_time": "2018-02-26T14:15:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b09trswf",
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "26 Feb 2018",
+"related_links": [],
+"original_title": "O Brave New World",
+"programme_type": "narrative",
+"slice_subtitle": "1. O Brave New World",
+"audio_described": false,
+"editorial_title": "Shakespeare & Hathaway",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-02-26T00:00:00.000Z",
+"editorial_subtitle": "Box Set. An unlikely crime-fighting duo",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"numeric_tleo_position": 2
+},
+{
+"id": "b03nktgy",
+"live": false,
+"type": "episode",
+"title": "Silent Witness",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jtxrk.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jty0s.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b007y6k8",
+"guidance": true,
+"slice_id": "b03nknr6",
+"subtitle": "Series 17: 1. Commodity, Part 1",
+"synopses": {
+"large": "Top-flight footballer Isaac Dreyfus' days at the top are numbered when a sex tape links him to the brutal murder of a young woman, threatening to destroy his reputation and marriage. Nikki struggles to come to terms with Leo's death following the arrival of the new Lyell Centre boss, pathologist Thomas Chamberlain. However, her feelings surface when DI John Leighton and DS Anne Burchett demand results in two unsolved cases - a mother and son murdered in their wealthy London home and the disfigured body of a young woman.",
+"small": "New Lyell Centre boss Thomas struggles to impress Nikki, Jack and Clarissa.",
+"medium": "Drama series. A sex tape puts a top-flight footballer in the frame for murder, while new Lyell Centre boss Thomas struggles to impress Nikki, Jack and Clarissa.",
+"editorial": "The forensics team who will stop at nothing to get answers for the dead.",
+"programme_small": "Compelling mystery drama series about a team of forensic pathologists."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03nktgw",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3375,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3146,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3146,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "58 mins",
+"value": "PT58M15.360S"
+},
+"guidance": {
+"id": "D1",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2019-12-11T09:00:00Z",
+"start": "2018-12-12T09:00:00Z",
+"remaining": {
+"text": "Available for 3 months"
+}
+},
+"credits_start": 3464,
+"first_broadcast": "9pm 2 Jan 2014",
+"first_broadcast_date_time": "2014-01-02T21:00:00.000Z"
+},
+{
+"hd": false,
+"id": "p01p781d",
+"uhd": false,
+"kind": "audio-described",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3372,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3143,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3143,
+"system": "dax"
+}
+],
+"download": false,
+"duration": {
+"text": "58 mins",
+"value": "PT58M12.040S"
+},
+"guidance": {
+"id": "D1",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2019-12-11T09:00:00Z",
+"start": "2019-02-20T20:57:42Z",
+"remaining": {
+"text": "Available for 3 months"
+}
+},
+"first_broadcast": "2 Jan 2014",
+"first_broadcast_date_time": "2014-01-02T00:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b03nknr6",
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "2 Jan 2014",
+"related_links": [],
+"original_title": "Commodity, Part 1",
+"programme_type": "narrative",
+"slice_subtitle": "1. Commodity, Part 1",
+"audio_described": true,
+"editorial_title": "Silent Witness: Series 17-22",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2014-01-02T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Thrilling mysteries",
+"lexical_sort_letter": "S",
+"requires_tv_licence": true,
+"numeric_tleo_position": 54
+},
+{
+"id": "b04cswns",
+"live": false,
+"type": "episode",
+"title": "Waking the Dead",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzqwt.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jzqzv.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006r9ys",
+"guidance": true,
+"slice_id": "b00b0b69",
+"subtitle": "Series 7: 1. Missing Persons - Part 1",
+"synopses": {
+"large": "When a woman defends her daughter from a mugger, it sets into motion a chain of events that places herself and her children in mortal danger.",
+"small": "A woman and her children find themselves in mortal danger.",
+"medium": "When a woman defends her daughter from a mugger, it sets into motion a chain of events that places herself and her children in mortal danger.",
+"editorial": "The investigatory team out to ensure crimes of the past can’t remain buried.",
+"programme_small": "Drama series following the members of a Cold Case investigation team"
+},
+"versions": [
+{
+"hd": false,
+"id": "b009zbyx",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3392,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3161,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3161,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT58M32.040S"
+},
+"guidance": {
+"id": "D1V1",
+"text": {
+"large": "Contains some violent scenes and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some violence and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2020-04-10T08:00:00Z",
+"start": "2019-04-11T08:00:00Z",
+"remaining": {
+"text": "Available for 7 months"
+}
+},
+"credits_start": 3483,
+"first_broadcast": "9pm 14 Apr 2008",
+"first_broadcast_date_time": "2008-04-14T20:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b00b0b69",
+"tleo_type": "brand",
+"categories": [
+"archive",
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "14 Apr 2008",
+"related_links": [],
+"original_title": "Missing Persons - Part 1",
+"programme_type": "narrative",
+"slice_subtitle": "1. Missing Persons - Part 1",
+"audio_described": false,
+"editorial_title": "Waking the Dead: Series 7-9",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2008-04-14T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Cracking cold cases",
+"lexical_sort_letter": "W",
+"requires_tv_licence": true,
+"numeric_tleo_position": 2
+},
+{
+"id": "b00sbjbv",
+"live": false,
+"type": "episode",
+"title": "Luther",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07k07f9.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07k0771.jpg"
+},
+"labels": {
+"category": "Crime Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00vk2lp",
+"guidance": true,
+"slice_id": "b00s8jk0",
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"small": "Luther, back from suspension, must solve a seemingly perfect double murder.",
+"medium": "Crime drama series. Luther, back from suspension, must solve a seemingly perfect double murder and work out how, and by whom, it was committed.",
+"editorial": "Luther is trying to forget his old life – but can’t help being drawn into dark cases.",
+"programme_small": "A dark psychological crime drama starring Idris Elba as DCI John Luther."
+},
+"versions": [
+{
+"hd": true,
+"id": "b00sbjbd",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3374,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3145,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3145,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "58 mins",
+"value": "PT58M14.040S"
+},
+"guidance": {
+"id": "WD",
+"text": {
+"large": "Contains some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some upsetting scenes."
+}
+},
+"availability": {
+"end": "2020-04-18T08:00:00Z",
+"start": "2019-03-19T17:27:57Z",
+"remaining": {
+"text": "Available for 8 months"
+}
+},
+"credits_start": 3453,
+"first_broadcast": "9pm 4 May 2010",
+"first_broadcast_date_time": "2010-05-04T20:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b00s8jk0",
+"tleo_type": "brand",
+"categories": [
+"archive",
+"drama-and-soaps",
+"drama-crime"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "4 May 2010",
+"related_links": [],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"slice_subtitle": "Episode 1",
+"audio_described": false,
+"editorial_title": "Luther: Series 1-5",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2010-05-04T00:00:00.000Z",
+"editorial_subtitle": "Box Set. The detective who can’t let go of his past",
+"lexical_sort_letter": "L",
+"requires_tv_licence": true,
+"numeric_tleo_position": 2
+},
+{
+"id": "p06kbg8t",
+"live": false,
+"type": "episode",
+"tests": [],
+"title": "Killing Eve",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07k09pb.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07k09q2.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p06jy6bc",
+"guidance": true,
+"slice_id": "p06jy6gl",
+"subtitle": "Series 1: 1. Nice Face",
+"synopses": {
+"large": "Eve is a security officer at MI5. She likes her job, her boss, her friends and her husband, but she is bored. When a Russian diplomat is assassinated in Vienna and Eve is given the job of looking after the witness, a casual bet about the identity of the killer gets out of hand, and Eve finds herself drawn into a cat-and-mouse game all across the continent, looking for a deadly, elusive and fascinating suspect.",
+"small": "When a politician is murdered, an MI5 security officer must protect the only witness.",
+"medium": "Thriller in which a security operative hunts for an assassin. When a Russian politician is murdered, MI5 security officer Eve must protect the only witness.",
+"preview": "Two women go head to head in an epic game of cat and mouse.",
+"editorial": "Eve wants excitement. Villanelle wants to kill. The murderous award-winning sensation.",
+"programme_small": "Thriller series in which two women go head to head in a game of cat and mouse."
+},
+"versions": [
+{
+"hd": true,
+"id": "p06tqjd3",
+"uhd": false,
+"kind": "editorial",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 2397,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2266,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2266,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "42 mins",
+"value": "PT41M57.320S"
+},
+"guidance": {
+"id": "D1V1",
+"text": {
+"large": "Contains some violent scenes and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some violence and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2022-08-31T22:59:00Z",
+"start": "2018-12-13T19:13:53Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"credits_start": 2489,
+"first_broadcast": "15 Sep 2018",
+"first_broadcast_date_time": "2018-09-15T00:00:00.000Z"
+},
+{
+"hd": false,
+"id": "p06vhz5g",
+"uhd": false,
+"kind": "audio-described",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 2397,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2266,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2266,
+"system": "dax"
+}
+],
+"download": false,
+"duration": {
+"text": "42 mins",
+"value": "PT41M57.320S"
+},
+"guidance": {
+"id": "D1V1",
+"text": {
+"large": "Contains some violent scenes and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains some violence and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2022-08-31T22:59:00Z",
+"start": "2018-12-13T19:18:49Z",
+"remaining": {
+"text": "Available for over a year"
+}
+},
+"first_broadcast": "15 Sep 2018",
+"first_broadcast_date_time": "2018-09-15T00:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "p06jy6gl",
+"tleo_type": "brand",
+"categories": [
+"audio-described",
+"drama-and-soaps"
+],
+"preview_id": "p06p3ftx",
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "15 Sep 2018",
+"related_links": [
+{
+"id": "p06vm1w7",
+"url": "http://www.bbc.co.uk/blogs/writersroom/entries/1164abe1-9993-41bc-8c25-595c9638c271",
+"kind": "priority_content",
+"type": "link",
+"title": "BBC Writersroom: From book to screen"
+}
+],
+"original_title": "Nice Face",
+"programme_type": "narrative",
+"slice_subtitle": "1. Nice Face",
+"audio_described": true,
+"editorial_title": "Killing Eve: Series 1-2",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-09-15T00:00:00.000Z",
+"editorial_subtitle": "Box Set. A deadly, obsessive game of cat and mouse",
+"lexical_sort_letter": "K",
+"requires_tv_licence": true,
+"numeric_tleo_position": 2
+},
+{
+"id": "b007c8pz",
+"live": false,
+"type": "episode",
+"title": "North and South",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07k7fqz.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07k7g0t.jpg"
+},
+"labels": {
+"category": "Period Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b00kq3rz",
+"guidance": false,
+"subtitle": "Episode 1",
+"synopses": {
+"large": "The first in a four-part adaptation of Elizabeth Gaskell's feisty and passionate love story, set across the social divides in the changing world of Victorian industrial society. \n\n19-year-old Margaret Hale and her parents are forced to leave their idyllic life in the south when Mr Hale resigns from the clergy and the family move to the northern town of Milton. Mr Hale takes work as a private tutor while Margaret and her mother struggle to adapt to their new lives in the north. \n\nWhen she befriends local millworkers, Margaret's consciousness is rapidly awakened to the divisions and inequalities in society. A fiery meeting with charismatic millowner John Thornton only serves to reinforce her prejudices against him - he personifies the cruel injustice of the industrial system. Thornton however, begins to develop a rather more favourable opinion of spirited Margaret. (2004)",
+"small": "Margaret Hale and her parents are forced to leave their idyllic life and move to Milton.",
+"medium": "The first in a four-part adaptation of Elizabeth Gaskell's feisty and passionate story, set across the social divide, in the changing world of Victorian industrial society.",
+"editorial": "Elizabeth Gaskell's feisty and passionate love story set across the social divides.",
+"programme_small": "Adaptation of Elizabeth Gaskell's novel set across the social divide in the Victorian age"
+},
+"versions": [
+{
+"hd": false,
+"id": "b005nq3z",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3347,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3120,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3120,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "58 mins",
+"value": "PT57M47.040S"
+},
+"availability": {
+"end": "2020-01-25T06:00:00Z",
+"start": "2019-04-02T15:27:47Z",
+"remaining": {
+"text": "Available for 5 months"
+}
+},
+"credits_start": 3456,
+"first_broadcast": "9pm 14 Nov 2004",
+"first_broadcast_date_time": "2004-11-14T21:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b00kq3rz",
+"tleo_type": "series",
+"categories": [
+"archive",
+"drama-and-soaps",
+"drama-classic-and-period"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_webonly",
+"titles": {
+"large": "BBC",
+"small": "BBC",
+"medium": "BBC"
+},
+"attribution": "bbc"
+},
+"release_date": "14 Nov 2004",
+"related_links": [],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2004-11-14T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Richard Armitage is the classic Victorian gentleman",
+"lexical_sort_letter": "N",
+"requires_tv_licence": true
+},
+{
+"id": "p04qw7jq",
+"live": false,
+"type": "episode",
+"title": "Clique",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p05r6c7w.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b03bfj2q",
+"guidance": true,
+"slice_id": "p04qm31j",
+"subtitle": "Series 1: Episode 1",
+"synopses": {
+"large": "Holly and Georgia have been best friends since they were 11. In their first term at university they are as close as ever - living in the same halls, taking the same classes and drinking in the same bars. Then they meet the clique, with enigmatic Professor Jude McDermid at their helm, and everything changes. Holly sees the darkness behind these glamorous girls' bright smiles, but oblivious Georgia throws herself into the clique's moneyed, hedonistic lifestyle. Holly is suspicious of these new friends and determined to protect Georgia so follows her into their inner circle.",
+"small": "Two childhood best friends go to university together and find their closeness tested.",
+"medium": "Drama series. Two friends are enjoying university, but when one is drawn into an elite clique of powerful young women, the other finds herself adrift.",
+"editorial": "Holly and friends enter an exciting new world - are they heading for danger?",
+"programme_small": "In the first year of university, two friends find themselves drawn into an elite clique."
+},
+"versions": [
+{
+"hd": true,
+"id": "p04tj5mk",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 2469,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2330,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2330,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "43 mins",
+"value": "PT43M9S"
+},
+"guidance": {
+"id": "D1L3S1",
+"text": {
+"large": "Contains very strong language, some scenes of a sexual nature and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains very strong language, some sexual content and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2019-10-01T08:00:00Z",
+"start": "2019-07-25T14:55:40Z",
+"remaining": {
+"text": "Available for 1 month"
+}
+},
+"credits_start": 2564,
+"first_broadcast": "5 Mar 2017",
+"first_broadcast_date_time": "2017-03-05T00:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "p04qm31j",
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_three",
+"titles": {
+"large": "BBC Three",
+"small": "BBC Three",
+"medium": "BBC Three"
+},
+"ident_id": "p03bhqhy",
+"attribution": "bbc_three"
+},
+"release_date": "5 Mar 2017",
+"related_links": [
+{
+"id": "p04txgby",
+"url": "http://www.bbc.co.uk/programmes/articles/4WLs5NlwrySXJR2n8Snszdg/emotional-distress-information-and-support",
+"kind": "priority_content",
+"type": "link",
+"title": "Information and Support"
+}
+],
+"original_title": "Episode 1",
+"programme_type": "narrative",
+"slice_subtitle": "Episode 1",
+"audio_described": false,
+"editorial_title": "Clique: Series 1-2",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2017-03-05T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Darkness lurks beneath the glamour",
+"lexical_sort_letter": "C",
+"requires_tv_licence": true,
+"numeric_tleo_position": 2
+},
+{
+"id": "b0074dlv",
+"live": false,
+"type": "episode",
+"title": "Doctor Who",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p068r9tv.jpg"
+},
+"labels": {
+"category": "Sci-Fi"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b006q2x0",
+"guidance": false,
+"slice_id": "b007vvcq",
+"subtitle": "Series 1: 1. Rose",
+"synopses": {
+"small": "Rose Tyler meets a mysterious stranger called the Doctor, and realises Earth is in danger.",
+"medium": "Rose Tyler meets a mysterious stranger called the Doctor, and realises Earth is in danger.",
+"editorial": "Rose Tyler's life changes forever when she meets a mysterious stranger called the Doctor.",
+"programme_small": "Adventures in time and space with the ninth Time Lord and Rose"
+},
+"versions": [
+{
+"hd": false,
+"id": "p068jv85",
+"uhd": false,
+"kind": "editorial",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 2533,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2388,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 2388,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "44 mins",
+"value": "PT44M13S"
+},
+"availability": {
+"end": "2019-12-03T12:00:00Z",
+"start": "2018-11-28T11:56:53Z",
+"remaining": {
+"text": "Available for 3 months"
+}
+},
+"credits_start": 2614,
+"first_broadcast": "26 Mar 2005",
+"first_broadcast_date_time": "2005-03-26T00:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b007vvcq",
+"tleo_type": "brand",
+"categories": [
+"archive",
+"drama-and-soaps",
+"drama-sci-fi-and-fantasy"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "26 Mar 2005",
+"related_links": [],
+"original_title": "Rose",
+"programme_type": "narrative",
+"slice_subtitle": "1. Rose",
+"audio_described": false,
+"editorial_title": "Doctor Who: Series 1-11",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2005-03-26T00:00:00.000Z",
+"editorial_subtitle": "Box Set. All of time and space awaits the Doctor",
+"lexical_sort_letter": "D",
+"requires_tv_licence": true,
+"numeric_tleo_position": 739
+},
+{
+"id": "b0bnxpzn",
+"live": false,
+"type": "episode",
+"title": "There She Goes",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jv0x1.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jv10t.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b0bp2zq4",
+"guidance": true,
+"slice_id": "b0bp31n5",
+"subtitle": "Series 1: 1. One Day in the Life of Rosie Yates",
+"synopses": {
+"large": "Rosie Yates is a nine-year-old girl with a severe learning disability due to an undiagnosed chromosomal disorder, living with her dad Simon, mum Emily and brother Ben. It's a typical Saturday for the family, starting with an attempt to get Rosie to the park for some fresh air. She refuses to cooperate, and afterwards she's similarly uncooperative with her dinner. As Simon and Emily are later distracted, Rosie causes carnage in the kitchen.",
+"small": "It's a typical Saturday for nine-year-old Rosie, who has a severe learning disability.",
+"medium": "Comedy drama. It's a typical Saturday for Rosie, a nine-year-old girl with a learning disability, as her family tries to get her to the park.",
+"editorial": "Life with learning disabilties. With a BAFTA-winning performance by Jessica Hynes.",
+"programme_small": "Comedy drama about a severely learning disabled nine-year-old girl and her family."
+},
+"versions": [
+{
+"hd": true,
+"id": "b0bnxpzb",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 1654,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 1597,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 1597,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "30 mins",
+"value": "PT29M34.040S"
+},
+"guidance": {
+"id": "L3LA",
+"text": {
+"large": "Contains very strong language and adult humour",
+"small": "Has guidance",
+"medium": "Contains very strong language and adult humour"
+}
+},
+"availability": {
+"end": "2019-11-14T21:30:00Z",
+"start": "2018-12-11T16:12:10Z",
+"remaining": {
+"text": "Available for 3 months"
+}
+},
+"credits_start": 1748,
+"first_broadcast": "10pm 16 Oct 2018",
+"first_broadcast_date_time": "2018-10-16T21:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "b0bp31n5",
+"tleo_type": "brand",
+"categories": [
+"comedy",
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_four",
+"titles": {
+"large": "BBC Four",
+"small": "BBC Four",
+"medium": "BBC Four"
+},
+"ident_id": "p03rqj11",
+"attribution": "bbc_four"
+},
+"release_date": "16 Oct 2018",
+"related_links": [],
+"original_title": "One Day in the Life of Rosie Yates",
+"programme_type": "narrative",
+"slice_subtitle": "1. One Day in the Life of Rosie Yates",
+"audio_described": false,
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2018-10-16T00:00:00.000Z",
+"editorial_subtitle": "Box Set. A unique daughter and a loving, complex family",
+"lexical_sort_letter": "T",
+"requires_tv_licence": true,
+"numeric_tleo_position": 2
+},
+{
+"id": "p010r4kr",
+"live": false,
+"type": "episode",
+"title": "Our Girl",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p066wm3p.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "p0260ych",
+"guidance": true,
+"slice_id": "p02631j3",
+"subtitle": "Pilot",
+"synopses": {
+"large": "On the evening of her 18th birthday, Molly Dawes finds herself drunk and is sick in the doorway of an army recruitment office. She looks into the window of the office and sees a life-sized photograph of an army girl, everything that Molly isn't but wants to be - respected. \n\nThe following morning, Molly finds herself back in the locale and steels herself sufficiently to go into the recruitment office. Truculent and full of self doubt, she takes the leaflets and is eventually persuaded to complete an aptitude test. \n\nNo-one thinks she can stick it out, including herself. But slowly and surely, Molly is maturing and learning to believe in herself. She digs in and finds a strength that she never thought she had.",
+"small": "Drama about a teenage girl who finds herself drawn to the army recruitment office.",
+"medium": "Drama about a teenage girl who finds herself drawn to the army recruitment office after being sick in its doorway whilst drunk on the evening of her 18th birthday.",
+"editorial": "How do 2 Section cope when they’re thrown into perilous and life-changing situations?",
+"programme_small": "Drama following the extraordinary adventures of female medics in the British Army."
+},
+"versions": [
+{
+"hd": true,
+"id": "b01rlx1r",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 5135,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 4730,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 4730,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "88 mins",
+"value": "PT1H27M35.080S"
+},
+"guidance": {
+"id": "D1L2S1",
+"text": {
+"large": "Contains strong language, some scenes of a sexual nature and some scenes which some viewers may find upsetting.",
+"small": "Has guidance",
+"medium": "Contains strong language, some sexual content and some upsetting scenes."
+}
+},
+"availability": {
+"end": "2019-11-17T12:00:00Z",
+"start": "2018-11-16T11:19:24Z",
+"remaining": {
+"text": "Available for 3 months"
+}
+},
+"credits_start": 5223,
+"first_broadcast": "9pm 24 Mar 2013",
+"first_broadcast_date_time": "2013-03-24T21:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "p0260ych",
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "24 Mar 2013",
+"related_links": [],
+"original_title": "Pilot",
+"programme_type": "narrative",
+"audio_described": false,
+"editorial_title": "Our Girl: Series 1-4",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2013-03-24T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Life and death on the frontline",
+"lexical_sort_letter": "O",
+"requires_tv_licence": true,
+"numeric_tleo_position": 1
+},
+{
+"id": "p00sxqkd",
+"live": false,
+"type": "episode",
+"tests": [],
+"title": "The Musketeers",
+"images": {
+"type": "image",
+"standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07k4bgw.jpg",
+"programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07k4bmj.jpg"
+},
+"labels": {
+"category": "Drama"
+},
+"signed": false,
+"status": "available",
+"tleo_id": "b04ww8fq",
+"guidance": false,
+"slice_id": "p00sxqkb",
+"subtitle": "Series 1: 1. Friends and Enemies",
+"synopses": {
+"large": "The brightest and best musketeers of the King's Regiment, Athos, Porthos and Aramis, are dispatched by Captain Treville to find a missing musketeer carrying important letters on behalf of King Louis. But Cardinal Richelieu has plans to increase his political power and seeks to sabotage the good reputation of the musketeers. \n\nMeanwhile, d'Artagnan travels from his family farm in Gascony to Paris to petition the king, but his peaceful plans are turned upside down when he is forced to find the musketeers and seek vengeance for the brutal murder of a loved one.\n\nWill d'Artagnan bring the murderer to justice and can the musketeers protect king and country? Or will the cardinal triumph with the help of the beautiful and dangerous Milady?",
+"small": "The musketeers must protect king and country against evil forces seeking to destroy them.",
+"medium": "Historical drama series. Athos, Porthos and Aramis are dispatched to find a missing musketeer. D'Artagnan seeks vengeance for the brutal murder of a loved one.",
+"editorial": "The Musketeers fight for social justice – for honour, for love and for the thrill of it.",
+"programme_small": "A thrilling world of action, adventure and romance inspired by Dumas' characters."
+},
+"versions": [
+{
+"hd": true,
+"id": "b03sfv5z",
+"uhd": false,
+"kind": "original",
+"type": "version",
+"events": [
+{
+"name": "started",
+"offset": 30,
+"system": "uas"
+},
+{
+"name": "ended",
+"offset": 3421,
+"system": "uas"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3187,
+"system": "optimizely"
+},
+{
+"name": "iplxp-ep-started",
+"offset": 30,
+"system": "dax"
+},
+{
+"name": "iplxp-ep-watched",
+"offset": 3187,
+"system": "dax"
+}
+],
+"download": true,
+"duration": {
+"text": "59 mins",
+"value": "PT59M0.640S"
+},
+"availability": {
+"end": "2020-07-11T08:00:00Z",
+"start": "2019-07-02T11:52:32Z",
+"remaining": {
+"text": "Available for 10 months"
+}
+},
+"credits_start": 3512,
+"first_broadcast": "9pm 19 Jan 2014",
+"first_broadcast_date_time": "2014-01-19T21:00:00.000Z"
+}
+],
+"childrens": false,
+"parent_id": "p00sxqkb",
+"tleo_type": "brand",
+"categories": [
+"drama-and-soaps"
+],
+"has_credits": true,
+"master_brand": {
+"id": "bbc_one",
+"titles": {
+"large": "BBC One",
+"small": "BBC One",
+"medium": "BBC One"
+},
+"ident_id": "p06g87jc",
+"attribution": "bbc_one"
+},
+"release_date": "19 Jan 2014",
+"related_links": [],
+"original_title": "Friends and Enemies",
+"programme_type": "narrative",
+"slice_subtitle": "1. Friends and Enemies",
+"audio_described": false,
+"editorial_title": "The Musketeers: Series 1-3",
+"parent_position": 1,
+"requires_sign_in": true,
+"release_date_time": "2014-01-19T00:00:00.000Z",
+"editorial_subtitle": "Box Set. Swashbuckling action",
+"lexical_sort_letter": "M",
+"requires_tv_licence": true,
+"numeric_tleo_position": 2
+}
+]

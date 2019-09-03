@@ -1,0 +1,2557 @@
+[{
+    "id": "p07f4j35",
+    "live": false,
+    "type": "episode",
+    "tests": [{
+      "id": "left_behind2",
+      "variants": [{
+          "id": "defaultVariant",
+          "data": {
+            "images": {
+              "type": "image",
+              "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07ghsp7.jpg"
+            }
+          }
+        },
+        {
+          "id": "wallVariant",
+          "data": {
+            "images": {
+              "type": "image",
+              "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07fzg9m.jpg"
+            }
+          }
+        }
+      ]
+    }],
+    "title": "The Left Behind",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07ghsp7.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07f4j35",
+    "guidance": true,
+    "synopses": {
+      "large": "Support for the far right is growing in Britain’s post-industrial towns and cities.\n\nThis factual drama from the BAFTA-winning team behind Killed By My Debt and the Murdered by… films tells the story of a young man with no secure job, housing or future as he is drawn into a devastating hate crime.\n\nA steel-tipped state of the nation drama based on deep research into the realities of life in ‘forgotten Britain.’",
+      "small": "Factual drama about a young man drawn into a far-right hate crime.",
+      "medium": "Support for the far right is growing in Britain’s post-industrial towns and cities. This factual drama tells the story of a young man who gets drawn into a far right hate crime.",
+      "editorial": "Gethin has no secure job, housing or future – and is drawn into a devastating hate crime."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p07fsk1k",
+        "uhd": false,
+        "kind": "editorial",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3417,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3184,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3184,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT58M57.440S"
+        },
+        "guidance": {
+          "id": "D1L2",
+          "text": {
+            "large": "Contains strong language and some scenes which some viewers may find upsetting.",
+            "small": "Has guidance",
+            "medium": "Contains strong language and some upsetting scenes."
+          }
+        },
+        "availability": {
+          "end": "2020-01-06T09:00:00Z",
+          "start": "2019-07-10T08:00:00Z",
+          "remaining": {
+            "text": "Available for 5 months"
+          }
+        },
+        "credits_start": 3500,
+        "first_broadcast": "10 Jul 2019",
+        "first_broadcast_date_time": "2019-07-10T00:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07ghym5",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3417,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3184,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3184,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT58M57.440S"
+        },
+        "guidance": {
+          "id": "D3L3",
+          "text": {
+            "large": "Contains very strong language and scenes which some viewers may find disturbing.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language and disturbing scenes."
+          }
+        },
+        "availability": {
+          "end": "2020-01-06T09:00:00Z",
+          "start": "2019-07-10T14:11:50Z",
+          "remaining": {
+            "text": "Available for 5 months"
+          }
+        },
+        "first_broadcast": "10 Jul 2019",
+        "first_broadcast_date_time": "2019-07-10T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "10 Jul 2019",
+    "related_links": [],
+    "original_title": "The Left Behind",
+    "programme_type": "one-off",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-10T00:00:00.000Z",
+    "editorial_subtitle": "When you have no hope, who knows what you're capable of",
+    "lexical_sort_letter": "L",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07h0lb0",
+    "live": false,
+    "type": "episode",
+    "title": "Ambulance Australia",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07hy7r1.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07hy8nr.jpg"
+    },
+    "labels": {
+      "category": "Lifestyle"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p06ypz3r",
+    "guidance": true,
+    "subtitle": "Series 2: Episode 1",
+    "synopses": {
+      "large": "It’s the first week of summer, one of the most challenging times of year for NSW Ambulance. \n\nWe follow cases including a pregnant woman who goes into labour at home and it's clear that the baby is coming in a hurry, two 18-year old girls who have been involved in a car accident and one of them has been thrown out of the car as she wasn’t wearing her seatbelt , a work-site explosion and a terminally ill patient that hits close to home for one of our paramedics.",
+      "small": "It's the first week of summer, one of the most challenging times for NSW Ambulance.",
+      "medium": "It’s the first week of summer, one of the most challenging times of year for NSW Ambulance.",
+      "editorial": "The NSW Ambulance team have to cope with one of the most challenging times of year."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07h0ntp",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2940,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2754,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2754,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "51 mins",
+        "value": "PT51M0.040S"
+      },
+      "guidance": {
+        "id": "WD",
+        "text": {
+          "large": "Contains some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2020-01-24T09:00:00Z",
+        "start": "2019-07-28T08:00:00Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 3050,
+      "first_broadcast": "28 Jul 2019",
+      "first_broadcast_date_time": "2019-07-28T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07h0jvh",
+    "tleo_type": "brand",
+    "categories": [
+      "lifestyle"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "28 Jul 2019",
+    "related_links": [{
+      "id": "p07j4ftv",
+      "url": "https://www.bbc.co.uk/programmes/articles/VXscVJs54RtzMfPj3NDzMb/information-and-support-ambulance-australia",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Information and Support in the UK"
+    }],
+    "original_title": "Episode 1",
+    "programme_type": "self-contained",
+    "slice_subtitle": "Episode 1",
+    "audio_described": false,
+    "editorial_title": "Ambulance Australia: Series 2",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-28T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Summer in Sydney",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07g3yxl",
+    "live": false,
+    "type": "episode",
+    "title": "Our Borough: Love & Hustle",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj6wb.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj703.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07g3y52",
+    "guidance": true,
+    "subtitle": "Series 1: 1. Love",
+    "synopses": {
+      "large": "Last year, as London’s murder rate and youth violence hit the headlines, some parts of the capital were thrust into the spotlight. One of those areas was a corner of north London around Tottenham and Wood Green, where last spring three young people were murdered in consecutive months. But what about the young people who don’t make the news? This timely two-part series goes beyond the headlines to find out what life is really like growing up in an area which is as famous for its music industry icons as it is for the London riots or Premier League football. \n\nWhile the violence is real for some, it’s certainly not what defines enigmatic 21-year-old King. The son of first-generation immigrants, he was born and raised in Tottenham. The headlines around him depict a place in crisis, where youth violence has supposedly become the new norm. But the challenges he faces are very different. King is mainly thinking about love - and his dreams – but he’s also negotiating complicated cultural differences with his family. In the short term he needs to find somewhere to live and some way to become financially independent. \n\nAround King’s streets, we meet the neighbourhood’s resident performance poet, Tazzz P, who is saving herself with words and helping to heal a community which has been grieving the deaths of some of its young people. Further down the road is 16-year-old Kaymari, who is about to sit his GCSEs. He feels at risk every time he goes out – not so much from his peers, but because he’s regularly stopped and searched by the police. His mum fears this might derail the life she has carefully helped him to build.\n\n21-year-old youth pastor Onyeka turned his back on his former life and is now trying to pass the lessons he’s learnt on to the young people he meets on the streets - but can he make the difference he feels is needed?\n\nAnd at the local youth centre, there is a fearless 12-year-old vegan who feels that the recent epidemic of youth violence is a larger symptom of society’s lack of compassion. So in unorthodox ways she’s trying to change people from the inside out, by leading a group of vegan activists. \n\nAll this is typical of a day in this corner of north London.",
+      "small": "Beyond the headlines about youth violence, King is facing very different challenges.",
+      "medium": "Despite the headlines that have put his neighbourhood in the spotlight, King is thinking about love - and faces very different challenges to make his dreams come true.",
+      "editorial": "It’s often in the news – but what is life really like for young people in North London?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07hny7n",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2248,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2131,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2131,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "39 mins",
+        "value": "PT39M28.200S"
+      },
+      "guidance": {
+        "id": "L1",
+        "text": {
+          "large": "Contains some strong language.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language."
+        }
+      },
+      "availability": {
+        "end": "2020-01-20T09:00:00Z",
+        "start": "2019-07-24T13:38:34Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 2341,
+      "first_broadcast": "24 Jul 2019",
+      "first_broadcast_date_time": "2019-07-24T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07g3y84",
+    "tleo_type": "brand",
+    "categories": [],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "24 Jul 2019",
+    "related_links": [{
+      "id": "p07hlxxb",
+      "url": "https://www.bbc.co.uk/programmes/articles/dwNXbnMWbkSj6ZG7bggv5f/information-and-support",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Information and Support"
+    }],
+    "original_title": "Love",
+    "programme_type": "sequential",
+    "slice_subtitle": "1. Love",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-24T00:00:00.000Z",
+    "editorial_subtitle": "1/2 Behind the headlines",
+    "lexical_sort_letter": "O",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07fvhmw",
+    "live": false,
+    "type": "episode",
+    "title": "Inside the Secret World of Incels",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07j5ffr.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07j5fhb.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07fvhmw",
+    "guidance": true,
+    "synopses": {
+      "large": "This documentary offers a never-before-seen look at the incel community, an online subculture linked to multiple mass murders and hate crimes against women.\n \nIn 2014, 22-year-old Elliot Rodger shot and stabbed six of his fellow students to death in a premeditated attack at the University of California, Santa Barbara. His motive? In a chilling video Rodger said he was angry that he was still a virgin and in his words wanted to show himself as 'the true alpha male' by punishing women for not being attracted to him.\n \nThe legacy of Rodger's assault catapulted online incels into wider consciousness. Incels - short for 'involuntary celibates' - are a global community of sexually frustrated young men, who have found support amongst one another on the net. Some idolise Rodger, and chillingly, his murder spree seems to have helped inspire at least three further mass killings in North America, that have mainly targeted women.  \n \nAt its extreme, incel ideology spreads violent misogyny, which blames women for depriving men of sex and relationships. Some forums have recorded up to 40,000 members and feature depraved ideas like state-sponsored rape and girlfriends. \n \nFollowing eight months of unprecedented access to incels, this documentary is the deepest exploration yet of this notoriously closed community. \n \nTold primarily through the personal stories of three men who identify as incels, the documentary explores how an online ideology can push young men into very disturbing behaviour. But the film also delves behind the sensationalist media headlines to unearth some of the reasons for incels' existence - many feel alienated and are enduring difficulties, like mental health issues, autism or traumatic upbringing.  \n\nFor some, the online forums are a haven to joke, vent and find support in a world where they are struggling to find an identity and where gender relations are changing dramatically. The question is, where are the lines between this radical misogyny and violence?",
+      "small": "A never-before-seen look at the incel community.",
+      "medium": "A never-before-seen look at the incel community, an online subculture to which multiple mass murders and hate crimes against women have been attributed.",
+      "editorial": "How an online ideology can push young men into the most shocking, violent behaviour."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p07fvhrn",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 2853,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2676,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2676,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "50 mins",
+          "value": "PT49M33.040S"
+        },
+        "guidance": {
+          "id": "D3L3",
+          "text": {
+            "large": "Contains very strong language and scenes which some viewers may find disturbing.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language and disturbing scenes."
+          }
+        },
+        "availability": {
+          "end": "2020-07-08T08:00:00Z",
+          "start": "2019-07-14T08:00:00Z",
+          "remaining": {
+            "text": "Available for 11 months"
+          }
+        },
+        "credits_start": 2953,
+        "first_broadcast": "14 Jul 2019",
+        "first_broadcast_date_time": "2019-07-14T00:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07jbnn1",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 2853,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2676,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 2676,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "50 mins",
+          "value": "PT49M33.040S"
+        },
+        "guidance": {
+          "id": "D3L3",
+          "text": {
+            "large": "Contains very strong language and scenes which some viewers may find disturbing.",
+            "small": "Has guidance",
+            "medium": "Contains very strong language and disturbing scenes."
+          }
+        },
+        "availability": {
+          "end": "2020-07-08T08:00:00Z",
+          "start": "2019-07-31T14:02:06Z",
+          "remaining": {
+            "text": "Available for 11 months"
+          }
+        },
+        "first_broadcast": "14 Jul 2019",
+        "first_broadcast_date_time": "2019-07-14T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "14 Jul 2019",
+    "related_links": [{
+      "id": "p07jj5sn",
+      "url": "https://www.bbc.co.uk/programmes/articles/4xns1bgpN68MjJrVl13dyLW/information-and-support-inside-the-secret-world-of-incels",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Information and Support "
+    }],
+    "original_title": "Inside the Secret World of Incels",
+    "programme_type": "one-off",
+    "audio_described": true,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-14T00:00:00.000Z",
+    "editorial_subtitle": "Where are the lines drawn?",
+    "lexical_sort_letter": "I",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07g3wnd",
+    "live": false,
+    "type": "episode",
+    "title": "Big in the Valleys",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj76j.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj78j.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07g3w0z",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "With millennials set to be the heaviest generation since records began, we go to the South Wales Valleys, which has some of the highest obesity rates in Wales, to meet the friends determined not to let their size get in the way.\n\nTrinity dreams of being a tattoo artist. She is a comfort eater, but her boyfriend Luke likes her curvy. Meanwhile Nathaniel is trying to make it as a rap artist but is worried he won’t get taken seriously because of his size.",
+      "small": "Aspiring tattoo artist Trinity is a comfort eater but her boyfriend Luke likes her curvy.",
+      "medium": "Aspiring tattoo artist Trinity is a comfort eater but her boyfriend Luke likes her curvy,while rap artist Nathaniel is determined to make it despite his size.",
+      "editorial": "Real life stories from an area with some of the highest obesity rates in Wales."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "m0007945",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 1759,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1691,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1691,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "31 mins",
+        "value": "PT31M19.040S"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2020-01-17T09:00:00Z",
+        "start": "2019-07-21T08:00:00Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 1856,
+      "first_broadcast": "21 Jul 2019",
+      "first_broadcast_date_time": "2019-07-21T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07g3w7r",
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "21 Jul 2019",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "sequential",
+    "slice_subtitle": "Episode 1",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-21T00:00:00.000Z",
+    "editorial_subtitle": "1/3 Determined not to let their size get in their way",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07dhcfb",
+    "live": false,
+    "type": "episode",
+    "tests": [],
+    "title": "Canny Cops",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj10z.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj12g.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07dhbd4",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "In the first episode, sergeant Terry takes on a new role to target offenders in the remote village of Horden. Top of his list is 26 year-old Shauna, whose house in the numbered streets is regularly frequented by some of the areas well-known criminals. Terry likes Shauna but the feeling isn’t always mutual. As Shauna says, “the police have a vendetta against people in Horden, I think - especially me”.\n\nSoon after Terry meets Shauna for the first time, two lads are locked up for a spate of early morning burglaries. One of them is 18 year-old Jacob, who is currently living at Shauna’s. He goes to prison for the first time for the burglaries and when he’s released he faces a decision: go and live in Shauna’s notorious party house or move back in with his mum away from Horden.\n\nMeanwhile, a masked man steals over three thousand pounds in an armed robbery at a bookies on the numbered streets. As the police piece together the evidence it becomes clear that their prime suspect is a local lad who has spent most of his adult life behind bars for violent offences.",
+      "small": "A local cop takes on a well-known resident and her housemate who’s heading to jail.",
+      "medium": "A local cop takes on a well-known resident and her housemate who’s heading to jail for the first time.",
+      "editorial": "Following Durham police on the north-east coast – where crime and drug use is high."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07fzp4l",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2620,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2466,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2466,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "46 mins",
+        "value": "PT45M40.280S"
+      },
+      "guidance": {
+        "id": "L3",
+        "text": {
+          "large": "Contains very strong language.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language."
+        }
+      },
+      "availability": {
+        "end": "2021-01-22T13:01:00Z",
+        "start": "2019-07-04T14:37:34Z",
+        "remaining": {
+          "text": "Available for over a year"
+        }
+      },
+      "credits_start": 2713,
+      "first_broadcast": "3 Jul 2019",
+      "first_broadcast_date_time": "2019-07-03T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07dhby4",
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "3 Jul 2019",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "sequential",
+    "slice_subtitle": "Episode 1",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-03T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Where cops and criminals are on first name terms",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07h14nt",
+    "live": false,
+    "type": "episode",
+    "title": "Stacey Dooley",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07hyb55.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07hyb6p.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b048vy8l",
+    "guidance": true,
+    "subtitle": "Face To Face With The Bounty Hunters",
+    "synopses": {
+      "large": "Stacey Dooley investigates bounty hunters in the USA following bounty hunters as they hunt down fugitives who have skipped bail, bringing them back to face justice. \n\nOn the outskirts of Denver in Colorado, Stacey immerses herself in the world of a group of bounty hunters, led by husband and wife duo Scott and Lydia Gribble. They hunt down fugitives every day, locking up as many as eleven bail dodgers a week. She sees them force their way into properties, interrogate accomplices and taser and handcuff defendants who’ve gone on the run. Stacey sees the lengths the bounty hunters will go to capture a fugitive and get paid.\n\nIn America, defendants who are too poor to bail themselves out of jail rely on bondsmen to loan them their bail money. But when they don’t play by the rules the bondsmen can send bounty hunters to go find them and bring them back to court – so the bondsman doesn’t lose his money. These bounty hunters have sweeping powers and in all states but four (Wisconsin, Illinois, Kentucky and Oregon), nearly anyone, with very little training, can pick up a gun and hunt down fugitives who have gone on the run.\n\nBounty hunters have been part of the American justice system since the 1800s, a system which uses money to make sure people don’t run away after they’ve been charged with a crime. And if defendants do go on the run, paying bounty hunters to go get them means they won’t get away. It’s a $14 billion private industry that does the job that in the UK falls to the government and police, with bondsmen making money from every defendant who needs their help and bounty hunters making money from every fugitive they capture.\n\nAlongside the bounty hunting profession, Stacey learns how the commercial bail system works in America. Robert Boykin is the owner of Hope Bail Bonds. He pays Scott and the gang to hunt down fugitives who have skipped on the bail he has loaned the defendants, for a price. Robert says he is helping people - getting defendants out of jail who cannot afford bail on their own, while they wait for their trial.\n\nStacey meets and interviews the fugitives who Scott and his team arrest as well as the people around them. She learns that relatives and friends become ‘co-signers’ who play an important role in this system. They sign a contract with the bondsman and are legally bound to help the bounty hunters find the defendant if they go on the run. They also have to pay for the bounty hunters and any other costs.\n\nStacey meets 29-year-old Keri who lives with her husband, grandmother and children. Keri was arrested for assaulting an ex-boyfriend, was bailed out by Hope Bail Bonds but then didn’t go to court. So Scott goes to find her and bring her back to jail. She follows the bounty hunters as they go after 21-year-old Bryce who has missed numerous court dates but now has a job at McDonalds. She sees Scott interrogate 17-year-old Image whose mother is the co-signer for a fugitive on the run. And in a run-down part of the city, Stacey sees the bounty hunters taser an aging meth addict who is hiding out in a drug house.\n\nStacey learns that defendants like these rely on bondsmen like Robert because they don’t have enough money to bail themselves out. And if they fail to play by the rules, she sees that they can soon find themselves in real difficulties, with their debts going up and bounty hunters at their door. The bounty hunters and bondsmen believe this for-profit system is the most efficient way of getting people to face justice. But it seems that the poorest and most vulnerable in society pay the highest price.\n\nAs more Americans than ever before rely on the bail industry, Stacey asks what happens when you put a price on people’s freedom?",
+      "small": "Stacey Dooley investigates bounty hunters following them as they hunt down fugitives.",
+      "medium": "Stacey Dooley investigates bounty hunters in the USA following bounty hunters as they hunt down fugitives who have skipped bail, bringing them back to face justice.",
+      "editorial": "They aim to bring people to justice. But what happens when you put a price on freedom?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07h14rk",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2924,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2740,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2740,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "51 mins",
+        "value": "PT50M44.040S"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2020-01-27T09:00:00Z",
+        "start": "2019-07-31T08:00:00Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 3021,
+      "first_broadcast": "31 Jul 2019",
+      "first_broadcast_date_time": "2019-07-31T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "b048vy8l",
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "31 Jul 2019",
+    "related_links": [],
+    "original_title": "Face To Face With The Bounty Hunters",
+    "programme_type": "self-contained",
+    "audio_described": false,
+    "parent_position": 10,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-31T00:00:00.000Z",
+    "editorial_subtitle": "Face To Face With The Bounty Hunters",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p05y93q5",
+    "live": false,
+    "type": "episode",
+    "title": "Rent for Sex: Ellie Undercover",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p05zm4jv.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p05y93q5",
+    "guidance": true,
+    "synopses": {
+      "large": "Cases of 'rent for sex' in the UK are on the increase, where landlords offer free rooms in their properties in exchange for 'sexual favours'. Investigative journalist Ellie Flynn goes undercover to get a closer look at this issue.\n\nHaving seen the staggering amount of 'rent for sex' adverts that appear unchecked online, Ellie heads out to discover for herself just how genuine these ads are. Armed with undercover cameras, she meets landlords who post these ads to find out what they really expect in exchange for rent.\n\nThe landlords she confronts protest that it is a mutually beneficial arrangement. One tells her she can stay in a log cabin he has built in exchange for a 'physical arrangement once a week', stating that it's 'nothing abnormal, nothing strange' and telling her she has to be able to deal with that or\nshe shouldn't be there. Another tells her the arrangement would be every second day. She finds people all over the UK offering accommodation in exchange for sex, one even saying the reason the room has become available is because it belongs to his daughter and she's left to go to university. A prospective landlord also tells her he's taking the human aspect out of it and treating it like a business transaction, while others assure her they're just normal guys who just want to help people.\n\nAll the landlords suggest to Ellie that what they're doing is acceptable, but is this how the person taking up the offer would see it? Can it really be consensual when they are preying on vulnerable young people with nowhere else to go? To find out she tracks down and speaks to young women who have taken up these arrangements and asks them how much consent they felt able to give when the alternative was a life on the streets.\n\nDespite laws that exist to criminalise this practice, Ellie asks why there doesn't seem to be anyone doing anything to prevent it. From police forces to the Ministry of Justice, she uncovers a vacuum of responsibility that currently exists.",
+      "small": "Ellie Flynn investigates landlords offering rooms in exchange for 'sexual favours'.",
+      "medium": "Journalist Ellie Flynn investigates the 'rent for sex' trend, where landlords across the UK offer free rooms in exchange for 'sexual favours'.",
+      "editorial": "Cases in which landlords let rooms in exchange for sex favours are on the rise in the UK."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p05y941v",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1509,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1466,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1466,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "27 mins",
+          "value": "PT27M9.360S"
+        },
+        "guidance": {
+          "id": "L1",
+          "text": {
+            "large": "Contains some strong language.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language."
+          }
+        },
+        "availability": {
+          "end": "2019-08-30T00:25:00Z",
+          "start": "2019-07-30T23:25:00Z",
+          "remaining": {
+            "text": "Available for 27 days"
+          }
+        },
+        "credits_start": 1607,
+        "first_broadcast": "28 Feb 2018",
+        "first_broadcast_date_time": "2018-02-28T00:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p0658w39",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1509,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1466,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1466,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "27 mins",
+          "value": "PT27M9.360S"
+        },
+        "guidance": {
+          "id": "L1",
+          "text": {
+            "large": "Contains some strong language.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language."
+          }
+        },
+        "availability": {
+          "end": "2019-08-30T00:25:00Z",
+          "start": "2019-07-30T23:25:00Z",
+          "remaining": {
+            "text": "Available for 27 days"
+          }
+        },
+        "first_broadcast": "28 Feb 2018",
+        "first_broadcast_date_time": "2018-02-28T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "tleo_type": "episode",
+    "categories": [
+      "audio-described",
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "28 Feb 2018",
+    "related_links": [],
+    "original_title": "Rent for Sex: Ellie Undercover",
+    "programme_type": "one-off",
+    "audio_described": true,
+    "editorial_title": "Rent for Sex: Ellie Undercover",
+    "requires_sign_in": true,
+    "release_date_time": "2018-02-28T00:00:00.000Z",
+    "editorial_subtitle": "A shocking housing contract",
+    "lexical_sort_letter": "R",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07g0j3p",
+    "live": false,
+    "type": "episode",
+    "title": "Muzlamic",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj9ym.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj9zd.jpg"
+    },
+    "labels": {
+      "category": "Comedy"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07g0j3p",
+    "guidance": true,
+    "synopses": {
+      "large": "Sketch comedy sketch show written by and starring Aatif Nawaz and Ali Shahalom that explores modern Muslim life. \n\nWe take a familiar trip to customs, Mabz the Barber gets embroiled in a turf war, and the battle for the title of Whitest Brown Guy in Stevenage begins. Plus we meet the Shishafier and audition for Halal Goals - The Mo Salah Story.",
+      "small": "Sketch comedy show that explores modern Muslim life.",
+      "medium": "Sketch comedy show starring Aatif Nawaz and Ali Shahalom that explores modern Muslim life. We meet Mabz the Barber, the Whitest Brown Guys and take a trip to customs.",
+      "editorial": "Meet Mabz the Barber and the Whitest Brown Guys, and take a trip to customs."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07g0jk8",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 729,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 764,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 764,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "14 mins",
+        "value": "PT14M9.040S"
+      },
+      "guidance": {
+        "id": "W1",
+        "text": {
+          "large": "Contains adult humour.",
+          "small": "Has guidance",
+          "medium": "Contains adult humour."
+        }
+      },
+      "availability": {
+        "end": "2020-01-18T09:00:00Z",
+        "start": "2019-07-22T08:00:00Z",
+        "remaining": {
+          "text": "Available for 5 months"
+        }
+      },
+      "credits_start": 831,
+      "first_broadcast": "22 Jul 2019",
+      "first_broadcast_date_time": "2019-07-22T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "tleo_type": "episode",
+    "categories": [
+      "comedy"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "22 Jul 2019",
+    "related_links": [],
+    "original_title": "Muzlamic",
+    "programme_type": "one-off",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-22T00:00:00.000Z",
+    "editorial_subtitle": "A hilarious look at modern Muslim life",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07f4lkn",
+    "live": false,
+    "type": "episode",
+    "title": "Supercar, Superfam",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj46z.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jj4b1.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p06gd6ky",
+    "guidance": true,
+    "subtitle": "Series 2: Episode 1",
+    "synopses": {
+      "large": "Supercar owner and girl racer, Aini, is famous for her rose gold GTR but now she’s got a brand new whip – a Lamborghini Huracan. She wants Kash to pimp it to new levels so that everyone who sees it knows it’s fierce and feminine. But will Kash’s plan to cover the back of the car in Swarovski crystals pay off or will Aini hate it? \n\nShabs decides to put his girl troubles behind him by expressing his feelings through his lifelong passion for spoken word. He turns to his dad for inspiration and is surprised to find out how his own mum and dad got together over 40 years ago. Mates, Humza and Reef, convince him he needs to get into the studio to make a track he can be proud of and baby sister, Mari, is on hand to help him when he gets writer’s block.",
+      "small": "Kash pimps a special client’s Lambo and Shabs reveals he’s always wanted to be a rapper.",
+      "medium": "Aini wants Kash to pimp her Lambo. Will Kash’s plan be fierce and feminine enough? Shabs is itching to take his poetry to the next level with a song that is very personal to him.",
+      "editorial": "Back to the Essex world of slick whips, sibling rivalries and supercar style."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07f4ly0",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 556,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 608,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 608,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "11 mins",
+        "value": "PT11M16.040S"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2020-07-05T08:00:00Z",
+        "start": "2019-07-11T08:00:00Z",
+        "remaining": {
+          "text": "Available for 11 months"
+        }
+      },
+      "credits_start": 657,
+      "first_broadcast": "11 Jul 2019",
+      "first_broadcast_date_time": "2019-07-11T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07f4kx6",
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "11 Jul 2019",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "sequential",
+    "slice_subtitle": "Episode 1",
+    "audio_described": false,
+    "editorial_title": "Supercar, Superfam: Series 2",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-11T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Kash and Shabs return",
+    "lexical_sort_letter": "S",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p04qw7jq",
+    "live": false,
+    "type": "episode",
+    "title": "Clique",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p05r6c7w.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b03bfj2q",
+    "guidance": true,
+    "slice_id": "p04qm31j",
+    "subtitle": "Series 1: Episode 1",
+    "synopses": {
+      "large": "Holly and Georgia have been best friends since they were 11. In their first term at university they are as close as ever - living in the same halls, taking the same classes and drinking in the same bars. Then they meet the clique, with enigmatic Professor Jude McDermid at their helm, and everything changes. Holly sees the darkness behind these glamorous girls' bright smiles, but oblivious Georgia throws herself into the clique's moneyed, hedonistic lifestyle. Holly is suspicious of these new friends and determined to protect Georgia so follows her into their inner circle.",
+      "small": "Two childhood best friends go to university together and find their closeness tested.",
+      "medium": "Drama series. Two friends are enjoying university, but when one is drawn into an elite clique of powerful young women, the other finds herself adrift.",
+      "editorial": "Holly and friends enter an exciting new world - are they heading for danger?",
+      "programme_small": "In the first year of university, two friends find themselves drawn into an elite clique."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p04tj5mk",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 2469,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2330,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 2330,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "43 mins",
+        "value": "PT43M9S"
+      },
+      "guidance": {
+        "id": "D1L3S1",
+        "text": {
+          "large": "Contains very strong language, some scenes of a sexual nature and some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language, some sexual content and some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-10-01T08:00:00Z",
+        "start": "2019-07-25T14:55:40Z",
+        "remaining": {
+          "text": "Available for 1 month"
+        }
+      },
+      "credits_start": 2564,
+      "first_broadcast": "5 Mar 2017",
+      "first_broadcast_date_time": "2017-03-05T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p04qm31j",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "5 Mar 2017",
+    "related_links": [{
+      "id": "p04txgby",
+      "url": "http://www.bbc.co.uk/programmes/articles/4WLs5NlwrySXJR2n8Snszdg/emotional-distress-information-and-support",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Information and Support"
+    }],
+    "original_title": "Episode 1",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 1",
+    "audio_described": false,
+    "editorial_title": "Clique: Series 1-2",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2017-03-05T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Darkness lurks beneath the glamour",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 2
+  },
+  {
+    "id": "p07c6bkf",
+    "live": false,
+    "type": "episode",
+    "title": "Hayley",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jccs2.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jcd4f.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p0605ns4",
+    "guidance": true,
+    "subtitle": "Hayley Goes...: 1. Sober",
+    "synopses": {
+      "large": "Like many people her age, 29-year-old Hayley Pearce loves a drink. She started on the booze when she was just 15 and still enjoys nothing more than the odd ‘all dayer’. But with recent studies revealing that nearly a third of 16-24 year olds now don’t drink at all, Hayley wants to understand what’s behind the growing teetotal trend among young people. \n\nTo find out, she’ll attempt to go sober for four weeks to explore the impact that regular drinking can have on our bodies, mental health and social lives. From hard-hitting reality checks to hypnotherapy, from social influencers to sober raves, Hayley will be forced to face up to her boozy past and confront sobriety head on. As she attempts to swap her beloved red wine for four weeks on the soft stuff, what does she learn about herself? And is it sobering stuff?",
+      "small": "Hayley Pearce attempts to go sober for four weeks to explore the growing teetotal trend.",
+      "medium": "29-year-old wine-loving Hayley Pearce attempts to go sober for four weeks as she explores the growing teetotal trend among young people.",
+      "editorial": "Hayley Pearce puts to the test the lifestyle choices that affect her generation."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07c6bks",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 1660,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1602,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1602,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "30 mins",
+        "value": "PT29M39.880S"
+      },
+      "guidance": {
+        "id": "L1",
+        "text": {
+          "large": "Contains some strong language.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language."
+        }
+      },
+      "availability": {
+        "end": "2019-12-13T09:00:00Z",
+        "start": "2019-06-16T08:00:00Z",
+        "remaining": {
+          "text": "Available for 4 months"
+        }
+      },
+      "credits_start": 1756,
+      "first_broadcast": "16 Jun 2019",
+      "first_broadcast_date_time": "2019-06-16T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07c6bgd",
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "16 Jun 2019",
+    "related_links": [],
+    "original_title": "Sober",
+    "programme_type": "self-contained",
+    "slice_subtitle": "1. Sober",
+    "audio_described": false,
+    "editorial_title": "Hayley Goes... Sober",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-06-16T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Can Hayley change her life? First up, no booze",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p0787wdc",
+    "live": false,
+    "type": "episode",
+    "title": "Hot Property",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p079zfd5.jpg"
+    },
+    "labels": {
+      "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p0787868",
+    "guidance": true,
+    "subtitle": "Series 1: 1. Belfast",
+    "synopses": {
+      "large": "Amber is on the lookout for some good craic from a Belfast boy, but Filly is worried that she might have history with one of the suitors when he turns out to have something in common with an ex. And things get emotional when Filly relives his teenage heartbreak.",
+      "small": "Amber is on the lookout for some good craic from a Belfast boy.",
+      "medium": "Amber is on the lookout for some good craic from a Belfast boy, but problems arise when one of the suitors turns out to have something in common with an ex.",
+      "editorial": "Nothing’s off limits as Yung Filly invites daters to look closer at potential partners."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p078q3s3",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 1587,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1536,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1536,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "28 mins",
+        "value": "PT28M27.040S"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2020-05-15T08:00:00Z",
+        "start": "2019-05-21T08:00:00Z",
+        "remaining": {
+          "text": "Available for 9 months"
+        }
+      },
+      "credits_start": 1704,
+      "first_broadcast": "21 May 2019",
+      "first_broadcast_date_time": "2019-05-21T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07878cc",
+    "tleo_type": "brand",
+    "categories": [
+      "entertainment"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "21 May 2019",
+    "related_links": [],
+    "original_title": "Belfast",
+    "programme_type": "self-contained",
+    "slice_subtitle": "1. Belfast",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-05-21T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Can meeting mates ensure a dream date?",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p0799cq8",
+    "live": false,
+    "type": "episode",
+    "title": "Galdem Sugar",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jc1vn.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jc2c9.jpg"
+    },
+    "labels": {
+      "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p0799bx3",
+    "guidance": false,
+    "subtitle": "Series 1: 1. Galdem in a Mandem World",
+    "synopses": {
+      "large": "A collective of five fierce females who are up-and-coming in the UK grime scene, come together to produce a podcast. This episode focuses on the everyday challenges of being a female artist in the male-dominated world of grime.\n\nLaughta is looking for an outfit to wear to the BRITs and is feeling the pressure to show some skin. Are men in the industry under the same pressure? It feels like women have to go the extra mile to be noticed.\n\nPre wavy and C Cane are excited by the impending podcast – but don’t normally hang around in big female groups. Will this open up their friendship groups and be a positive experience, or is putting five feisty women together in one room asking for drama?\n\nMadder Tiff has an emotional meeting with an old friend and has some news that shocks her.\n\nCassie Rytz – the youngest member of the collective opens up about what it’s like to be 18 and starting out in the industry. What’s it like taking the mic in a room full of men? So far, she is taking it in her stride but she’s been having personal problems which are affecting her wellbeing and creativity. Music means everything to her so she has some big issues to address and some big decisions to make.",
+      "small": "Delving in to the lives of five fearless MCs as they make a podcast.",
+      "medium": "Delving into the lives of five up-and-coming, fearless MCs who come together to make a podcast. This episode focuses on what it’s like to be a woman in the man’s world of grime.",
+      "editorial": "Five up-and-coming fearless MCs come together to take on the big issues in music."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p0799csc",
+      "uhd": false,
+      "kind": "iplayer-version",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 1153,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1145,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1145,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "21 mins",
+        "value": "PT21M12.680S"
+      },
+      "availability": {
+        "end": "2020-05-24T08:00:00Z",
+        "start": "2019-05-30T09:42:30Z",
+        "remaining": {
+          "text": "Available for 9 months"
+        }
+      },
+      "credits_start": 1245,
+      "first_broadcast": "30 May 2019",
+      "first_broadcast_date_time": "2019-05-30T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p0799c69",
+    "tleo_type": "brand",
+    "categories": [
+      "entertainment"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "30 May 2019",
+    "related_links": [],
+    "original_title": "Galdem in a Mandem World",
+    "programme_type": "self-contained",
+    "slice_subtitle": "1. Galdem in a Mandem World",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-05-30T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Being a woman in the world of grime",
+    "lexical_sort_letter": "G",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07f4h88",
+    "live": false,
+    "type": "episode",
+    "title": "Britain's Youngest Football Boss",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jbwzc.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p06rz829",
+    "guidance": true,
+    "subtitle": "Series 1: Episode 10",
+    "synopses": {
+      "large": "The season comes to a dramatic end as West Ham Women and their 19 year old MD Jack Sullivan, are thrust into the media spotlight as the team make their first ever appearance in an FA Cup Final at Wembley. But behind the scenes, a meeting with his boss, West Ham’s Billionaire co-owner and Jack’s dad, David Sullivan, soon focuses Jack’s attention on the future and most importantly, the challenge of being bigger and better in every department next season.",
+      "small": "West Ham Women make their first ever appearance in an FA Cup Final at Wembley.",
+      "medium": "It's the end of the season and West Ham Women and their 19 year old MD Jack Sullivan are thrust into the media spotlight as they make ever appearance in an FA Cup Final at Wembley",
+      "editorial": "Jack and West Ham Women are thrust into the spotlight in their first ever FA Cup Final."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07fptvm",
+      "uhd": false,
+      "kind": "editorial",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 1506,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1463,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1463,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "27 mins",
+        "value": "PT27M5.720S"
+      },
+      "guidance": {
+        "id": "L2",
+        "text": {
+          "large": "Contains strong language.",
+          "small": "Has guidance",
+          "medium": "Contains strong language."
+        }
+      },
+      "availability": {
+        "end": "2020-01-02T09:00:00Z",
+        "start": "2019-07-06T08:00:00Z",
+        "remaining": {
+          "text": "Available for 4 months"
+        }
+      },
+      "credits_start": 1599,
+      "first_broadcast": "6 Jul 2019",
+      "first_broadcast_date_time": "2019-07-06T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p06rzjg0",
+    "tleo_type": "brand",
+    "categories": [
+      "documentaries"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "6 Jul 2019",
+    "related_links": [],
+    "original_title": "Episode 10",
+    "programme_type": "sequential",
+    "slice_subtitle": "Episode 10",
+    "audio_described": false,
+    "parent_position": 10,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-06T00:00:00.000Z",
+    "editorial_subtitle": "10/10 A perfect ending?",
+    "lexical_sort_letter": "B",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p04qvrhb",
+    "live": false,
+    "type": "episode",
+    "title": "This Country",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p05r6f59.jpg"
+    },
+    "labels": {
+      "category": "Comedy"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09twr53",
+    "guidance": true,
+    "slice_id": "p04qv4jc",
+    "subtitle": "Series 1: 1. Scarecrow",
+    "synopses": {
+      "large": "Kurtan is focusing his attentions on the annual village scarecrow festival, a key event in the village calendar that can both unite and divide the community.\n\nTensions run high when his chances of winning the competition are compromised by being given a less than ideal plot to display his scarecrow. Meanwhile, Kerry faces a challenge to her authority.",
+      "small": "The team visit a scarecrow festival, an event that both unites and divides the community.",
+      "medium": "Bafta-winning mockumentary exploring young people in modern rural Britain. Kurtan is focusing his attentions on the annual village scarecrow festival.",
+      "editorial": "It's their village, and you'd better not forget it. Cotswolds life at its finest.",
+      "programme_small": "Comedy focusing on cousins Kerry and Kurtan and their lives in the Cotswolds."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "p04qvs7r",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1321,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1297,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1297,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "24 mins",
+          "value": "PT24M0.560S"
+        },
+        "guidance": {
+          "id": "L2",
+          "text": {
+            "large": "Contains strong language.",
+            "small": "Has guidance",
+            "medium": "Contains strong language."
+          }
+        },
+        "availability": {
+          "end": "2020-01-08T09:00:00Z",
+          "start": "2019-07-04T09:42:39Z",
+          "remaining": {
+            "text": "Available for 5 months"
+          }
+        },
+        "credits_start": 1415,
+        "first_broadcast": "8 Feb 2017",
+        "first_broadcast_date_time": "2017-02-08T00:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07dw7lv",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1321,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1297,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1297,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "24 mins",
+          "value": "PT24M0.560S"
+        },
+        "guidance": {
+          "id": "L2",
+          "text": {
+            "large": "Contains strong language.",
+            "small": "Has guidance",
+            "medium": "Contains strong language."
+          }
+        },
+        "availability": {
+          "end": "2020-01-08T09:00:00Z",
+          "start": "2019-07-04T14:06:10Z",
+          "remaining": {
+            "text": "Available for 5 months"
+          }
+        },
+        "first_broadcast": "8 Feb 2017",
+        "first_broadcast_date_time": "2017-02-08T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "p04qv4jc",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "comedy-sitcoms",
+      "comedy"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "8 Feb 2017",
+    "related_links": [],
+    "original_title": "Scarecrow",
+    "programme_type": "narrative",
+    "slice_subtitle": "1. Scarecrow",
+    "audio_described": true,
+    "editorial_title": "This Country: Series 1-2",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2017-02-08T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. A BAFTA-winning look at life in rural Britain",
+    "lexical_sort_letter": "T",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 2
+  },
+  {
+    "id": "p07ctvvn",
+    "live": false,
+    "type": "episode",
+    "title": "A High School Rape Goes Viral: Roll Red Roll",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jhx14.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jhx2h.jpg"
+    },
+    "labels": {
+      "category": "Film"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07ctvvn",
+    "guidance": true,
+    "synopses": {
+      "large": "This film is a true-crime thriller that goes behind the headlines to uncover the deep-seated and social media-fueled “boys will be boys” culture at the root of high school sexual assault in America.\n\nLike many small towns across the country, Steubenville, nestled in a valley in eastern Ohio, lives and dies by its high school football team. So when a teenage girl was sexually assaulted at a pre-season football party in 2012, no one came forward with information. \n\nTrue-crime blogger Alex Goddard set out to uncover the truth, piecing together the details of the crime through cell phone footage and photos that made their way to YouTube, as well as a nearly minute-by-minute account of events on social media. In the process, she uncovered both the perpetrators and the entire culture of complicity that enabled them. The ensuing trial, which made national headlines, cut to the very heart of nationwide debates about rape culture.",
+      "small": "A true-crime thriller uncovers a culture at the root of high school sexual assault.",
+      "medium": "A true-crime thriller that uncovers the deep-seated and social media-fueled “boys will be boys” culture at the root of high school sexual assault in America.",
+      "editorial": "Uncovering the deep-seated culture at the root of high school sexual assault in America."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07ctvw6",
+      "uhd": false,
+      "kind": "iplayer-version",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 4290,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3969,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3969,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "74 mins",
+        "value": "PT1H13M30.040S"
+      },
+      "guidance": {
+        "id": "D2L1",
+        "text": {
+          "large": "Contains some strong language and scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language and upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-12-20T09:00:00Z",
+        "start": "2019-06-23T08:00:00Z",
+        "remaining": {
+          "text": "Available for 4 months"
+        }
+      },
+      "credits_start": 4383,
+      "first_broadcast": "23 Jun 2019",
+      "first_broadcast_date_time": "2019-06-23T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "tleo_type": "episode",
+    "categories": [
+      "films"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "23 Jun 2019",
+    "related_links": [],
+    "original_title": "A High School Rape Goes Viral: Roll Red Roll",
+    "programme_type": "one-off",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2019-06-23T00:00:00.000Z",
+    "editorial_subtitle": "A true crime thriller",
+    "lexical_sort_letter": "A",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07cttsd",
+    "live": false,
+    "type": "episode",
+    "title": "Minding the Gap: An American Skateboarding Story",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jhwck.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jhwj7.jpg"
+    },
+    "labels": {
+      "category": "Film"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07cttsd",
+    "guidance": true,
+    "synopses": {
+      "large": "First- time filmmaker Bing Liu’s Oscar nominated documentary Minding the Gap is the coming-of-age saga of three skateboarding friends in their Rust Belt hometown, hit hard by decades of recession. \n\nIn his quest to understand why he and his friends ran away from home as teenagers, Bing tracks 23-year-old Zack as he becomes a young dad and 17-year-old Keire as he lands his first job. As the film unfolds, Bing is thrust into the middle of Zack’s tumultuous relationship with his girlfriend and Keire’s inner struggles with racial identity and his deceased father. While navigating a complex relationship between his camera and his friends, Bing explores the gap between fathers and sons.",
+      "small": "A coming-of-age saga of three skateboarding friends in their Rust Belt hometown.",
+      "medium": "Bing Liu’s Oscar nominated documentary Minding the Gap is the coming-of-age saga of three skateboarding friends in their Rust Belt hometown, hit hard by decades of recession.",
+      "editorial": "Bing Liu’s Oscar-nominated story of recession, race and relationships in the Rust Belt."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07cttym",
+      "uhd": false,
+      "kind": "iplayer-version",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 5168,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 4759,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 4759,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "88 mins",
+        "value": "PT1H28M8.040S"
+      },
+      "guidance": {
+        "id": "D1L3",
+        "text": {
+          "large": "Contains very strong language and some scenes which some viewers may find upsetting.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language and some upsetting scenes."
+        }
+      },
+      "availability": {
+        "end": "2019-12-20T09:00:00Z",
+        "start": "2019-06-23T08:00:00Z",
+        "remaining": {
+          "text": "Available for 4 months"
+        }
+      },
+      "credits_start": 5267,
+      "first_broadcast": "23 Jun 2019",
+      "first_broadcast_date_time": "2019-06-23T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "tleo_type": "episode",
+    "categories": [
+      "films"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "23 Jun 2019",
+    "related_links": [],
+    "original_title": "Minding the Gap: An American Skateboarding Story",
+    "programme_type": "one-off",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2019-06-23T00:00:00.000Z",
+    "editorial_subtitle": "A coming-of-age saga",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p07ctstz",
+    "live": false,
+    "type": "episode",
+    "tests": [],
+    "title": "Kate Nash: Underestimate the Girl",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jhtkl.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jhw16.jpg"
+    },
+    "labels": {
+      "category": "Film"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07ctstz",
+    "guidance": true,
+    "synopses": {
+      "large": "Kate Nash: Underestimate the Girl is an intimate portrait of British singer-songwriter Kate Nash and follows her journey over several years in her pursuit to remain a creatively and financially independent artist. After being dropped by a major label, Kate learns (the hard way) how to navigate the music industry as a self-sufficient businesswoman and creative. The film provides a unique insight into the challenges an independent artist goes through, and the resilience required to live and create art on their own terms.",
+      "small": "An intimate portrait follows Nash as she attempts to remain creatively independent.",
+      "medium": "An intimate portrait of British singer-songwriter Kate Nash that follows her journey over several years in her pursuit to remain a creatively and financially independent artist.",
+      "editorial": "Dropped by her label, Kate navigates the music industry as an independent artist."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07ctsxt",
+      "uhd": false,
+      "kind": "iplayer-version",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 5188,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 4777,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 4777,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "88 mins",
+        "value": "PT1H28M28.040S"
+      },
+      "guidance": {
+        "id": "L3",
+        "text": {
+          "large": "Contains very strong language.",
+          "small": "Has guidance",
+          "medium": "Contains very strong language."
+        }
+      },
+      "availability": {
+        "end": "2019-12-20T09:00:00Z",
+        "start": "2019-06-23T08:00:00Z",
+        "remaining": {
+          "text": "Available for 4 months"
+        }
+      },
+      "credits_start": 5296,
+      "first_broadcast": "23 Jun 2019",
+      "first_broadcast_date_time": "2019-06-23T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "tleo_type": "episode",
+    "categories": [
+      "films"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "23 Jun 2019",
+    "related_links": [],
+    "original_title": "Kate Nash: Underestimate the Girl",
+    "programme_type": "one-off",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2019-06-23T00:00:00.000Z",
+    "editorial_subtitle": "Striking out on her own",
+    "lexical_sort_letter": "K",
+    "requires_tv_licence": true
+  },
+  {
+    "id": "p079whc9",
+    "live": false,
+    "type": "episode",
+    "title": "Deadstock: Ultimate Resellers",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jh3ls.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jh3v4.jpg"
+    },
+    "labels": {
+      "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p079wfgy",
+    "guidance": false,
+    "subtitle": "Series 1: 1. Reem & Ryan",
+    "synopses": {
+      "large": "Hot shot re-sellers Fiona & Youth open the warehouse doors to help millennials turn their charity shop finds and prized pop culture possessions into hard cash at auction. Through the doors today, sees Reem with three rare childhood playing cards and Ryan brings a collection of bold-print Moschino outfits. Fiona tells us how she was born to be in the business of buying and selling, plus some tips on how to turn a quick quid.\n\nGrowing up, Ryan became obsessed with collecting 90’s vintage Moschino outfits,and wore them to stand out. He sees the items as pieces of art and has travelled as far as Italy to buy them. Now wearing the clothes less and less, he visits Fiona and Youth to have a few of his items valued and potentially sell if the price is right. \n\nFiona tells us how Re-selling is in her blood as was taught the tricks of the trade from a young age, both her parents are antique traders. She dishes up her passion for sustainability in the fashion industry, giving us a some tips on hand stitching and upcycling clothes to create unique pieces that sell.  Plus, we learn what to look for in a bag of old vintage scarves, if you want to make a pretty profit.  Reem arrives looking for valuations of three rare Pokémon cards that transport Youth and Fiona back to the school playground. Youth values one uber-rare card at over £300 pounds but for Reem will the high price override the sentimental value they hold, and put them up for sale at auction?",
+      "small": "A crazy print vintage Moschino collection and super rare Pokémon cards go up for auction",
+      "medium": "Youth and Fiona meet Moschino loving Ryan with his crazy clothes collection, and Reem has some super rare Pokémon cards with a surprising price tag, but will she part with them?",
+      "editorial": "Millennials turn their charity shop finds and prized possessions into cash at auction."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p079whjn",
+      "uhd": false,
+      "kind": "iplayer-version",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 997,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1005,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 1005,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "19 mins",
+        "value": "PT18M36.920S"
+      },
+      "availability": {
+        "end": "2020-05-27T08:00:00Z",
+        "start": "2019-06-02T08:00:00Z",
+        "remaining": {
+          "text": "Available for 9 months"
+        }
+      },
+      "credits_start": 1095,
+      "first_broadcast": "2 Jun 2019",
+      "first_broadcast_date_time": "2019-06-02T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p079wgq3",
+    "tleo_type": "brand",
+    "categories": [
+      "entertainment"
+    ],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "2 Jun 2019",
+    "related_links": [],
+    "original_title": "Reem & Ryan",
+    "programme_type": "self-contained",
+    "slice_subtitle": "1. Reem & Ryan",
+    "audio_described": false,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-06-02T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. Turning a quick quid",
+    "lexical_sort_letter": "D",
+    "requires_tv_licence": true
+  }
+]

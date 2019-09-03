@@ -1,0 +1,8 @@
+<div class="carousel medium" data-id="{{include.data}}">
+  <div class="carouselTitle">{{include.title}}</div>
+  <div class="carouselContent">
+    {% for item in site.data[include.data] limit:12 %}
+      {% include medContentItem.html %}
+    {% endfor %}
+  </div>
+</div>

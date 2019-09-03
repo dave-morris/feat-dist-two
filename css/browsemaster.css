@@ -1,0 +1,229 @@
+#browsemasterExperience {
+  color: #EBEBEB;
+  width: 1920px;
+  height: 840px;
+  background: #10101C;
+  position: relative;
+  transition: height 0.5s ease-in-out;
+}
+
+.bmPage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 100%;
+  display: none;
+}
+
+.bmPage:first-child {
+  display: block;
+}
+
+.bmGrad {
+  width: 1920px;
+  height: 1080px;
+  background-size: cover;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.bmVideo {
+  width: 1920px;
+  height: 1080px;
+  background-size: cover;
+}
+
+.bmVideo img {
+  position: absolute;
+  display: none;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1080px;
+}
+
+.bmVideo img:first-child {
+  display: block;
+}
+
+.bmVideo video {
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.bmText {
+  position: absolute;
+  bottom: 12px;
+  left: 96px;
+  max-width: 540px;
+  font-size: 24px;
+}
+
+.bmText.bmText_middle {
+  bottom: 148px;
+}
+
+.bmTitle {
+  font-size: 52px;
+  margin-bottom: 12px;
+}
+
+.bmTitleImage {
+  margin-bottom: 24px;
+}
+
+.bmTitleImage img {
+  max-height: 140px;
+  max-width: 540px;
+}
+
+.bmNudge {
+  color: #B2B7C4;
+  margin-bottom: 12px;
+  display: inline-block;
+  margin-right: 24px;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.bmViews {
+  margin-bottom: 24px;
+  display: inline-block;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.bmSynopsis {
+  font-size: 28px;
+  margin-bottom: 28px;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.bmCTA {
+  margin-bottom: 40px;
+}
+
+.bmCTA_button {
+  height: 92px;
+  width: 92px;
+  display: inline-block;
+  margin-right: 24px;
+  background-color: rgba(236, 236, 236, 0.1);
+}
+
+.bmCTA_button svg {
+  height: 42px;
+  width: 34px;
+  margin-top: 24px;
+  margin-left: 30px;
+}
+
+.focus .bmCTA_button {
+  background-color: #EB4997;
+}
+
+.bmCTA_text {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.bmCTA_startWatching {
+  color: #EB4997;
+  font-size: 21px;
+  font-family: 'ReithSansBold';
+  margin: 2px 0px;
+}
+
+.bmCTA_subtitle {
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+
+.bmCTA_underline {
+  width: 24px;
+  height: 2px;
+  background-color: #EB4997;
+}
+
+.bmActors {
+  list-style: none;
+  padding: 0;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.bmActor_image {
+  display: inline-block;
+  margin-right: 20px;
+  max-height: 88px;
+}
+
+.bmActor_image img {
+  height: 88px;
+}
+
+.bmActorName {
+  display: none;
+}
+
+.bmAward {
+  color: #EBEBEB;
+  position: absolute;
+  bottom: 66px;
+  right: 96px;
+  text-align: right;
+}
+
+.bmAward_text {
+  max-width: 492px;
+  font-size: 24px;
+
+}
+
+.bmAward_image {
+  max-height: 120px;
+  max-width: 200px;
+  margin-right: 0px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.bmAward_image img {
+  max-height: 120px;
+  max-width: 200px;
+}
+
+.bmProgress {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 36px;
+  left: 96px;
+  height: 6px;
+  width: 1728px;
+  text-align: center;
+}
+
+.bmProgressBar_background {
+  align-items: center;
+  background-color: #EBEBEB;
+  opacity: 0.6;
+  height: 100%;
+  width: 18%;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.bmProgressBar_fill {
+  height: 100%;
+  background-color: #EB4997;
+  width: 0%;
+  display: none;
+  border-radius: 4px;
+  transition: width 0.5s linear;
+}

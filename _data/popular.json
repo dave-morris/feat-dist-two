@@ -1,0 +1,2820 @@
+[{
+    "id": "m0007m0r",
+    "live": false,
+    "type": "episode",
+    "title": "EastEnders",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jwmp1.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m86d",
+    "guidance": false,
+    "subtitle": "12/08/2019",
+    "synopses": {
+      "large": "Callum receives some heart-breaking news, and tensions are high at the Ahmeds as the family celebrate Eid with Adam.",
+      "small": "Callum receives some heart-breaking news.",
+      "medium": "Callum receives some heart-breaking news, and tensions are high at the Ahmeds as the family celebrate Eid with Adam.",
+      "editorial": "Tensions are high at the Ahmeds as the family celebrate Eid with Adam."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007m0q",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1617,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1563,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1563,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT28M57.040S"
+        },
+        "availability": {
+          "end": "2019-09-11T19:30:00Z",
+          "start": "2019-08-12T19:30:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "8pm 12 Aug 2019",
+        "first_broadcast_date_time": "2019-08-12T19:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07kcf8j",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1617,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1563,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1563,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT28M57.040S"
+        },
+        "availability": {
+          "end": "2019-09-11T19:30:00Z",
+          "start": "2019-08-12T19:30:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "12 Aug 2019",
+        "first_broadcast_date_time": "2019-08-12T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "b006m86d",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "12 Aug 2019",
+    "related_links": [{
+      "id": "p06zhqzc",
+      "url": "https://www.bbc.co.uk/sounds/play/p06sp3dx?ns_mchannel=pinklink&ns_source=iplayer&ns_campaign=sounds_launch&ns_linkname=eastenders&ns_fee=1",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "EastEnders: The Podcast on BBC Sounds"
+    }],
+    "original_title": "12/08/2019",
+    "programme_type": "sequential",
+    "audio_described": true,
+    "parent_position": 5970,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-12T00:00:00.000Z",
+    "editorial_subtitle": "12/08/2019: Callum receives some heart-breaking news",
+    "lexical_sort_letter": "E",
+    "requires_tv_licence": true,
+    "position": 1
+  },
+  {
+    "id": "m0007fmb",
+    "live": false,
+    "type": "episode",
+    "title": "EastEnders",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07j7d5l.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m86d",
+    "guidance": false,
+    "subtitle": "09/08/2019",
+    "synopses": {
+      "large": "The pressure becomes too much for Mick, Habiba learns the hard way, and Rainie crosses the line.",
+      "small": "The pressure becomes too much for Mick, and Rainie crosses the line.",
+      "medium": "The pressure becomes too much for Mick, Habiba learns the hard way, and Rainie crosses the line."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007fm9",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1528,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1483,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1483,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "27 mins",
+          "value": "PT27M28.040S"
+        },
+        "availability": {
+          "end": "2019-09-08T19:30:00Z",
+          "start": "2019-08-09T19:30:00Z",
+          "remaining": {
+            "text": "Available for 26 days"
+          }
+        },
+        "credits_start": 1615,
+        "first_broadcast": "8pm 9 Aug 2019",
+        "first_broadcast_date_time": "2019-08-09T19:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07k4sx2",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1528,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1483,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1483,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "27 mins",
+          "value": "PT27M28.040S"
+        },
+        "availability": {
+          "end": "2019-09-08T19:30:00Z",
+          "start": "2019-08-09T19:30:00Z",
+          "remaining": {
+            "text": "Available for 26 days"
+          }
+        },
+        "first_broadcast": "9 Aug 2019",
+        "first_broadcast_date_time": "2019-08-09T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "b006m86d",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "9 Aug 2019",
+    "related_links": [{
+      "id": "p06zhqzc",
+      "url": "https://www.bbc.co.uk/sounds/play/p06sp3dx?ns_mchannel=pinklink&ns_source=iplayer&ns_campaign=sounds_launch&ns_linkname=eastenders&ns_fee=1",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "EastEnders: The Podcast on BBC Sounds"
+    }],
+    "original_title": "09/08/2019",
+    "programme_type": "sequential",
+    "audio_described": true,
+    "parent_position": 5969,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-09T00:00:00.000Z",
+    "editorial_subtitle": "09/08/2019: Habiba learns the hard way",
+    "lexical_sort_letter": "E",
+    "requires_tv_licence": true,
+    "position": 2
+  },
+  {
+    "id": "m0007m8l",
+    "live": false,
+    "type": "episode",
+    "title": "Match of the Day 2",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07kcmm7.jpg"
+    },
+    "labels": {
+      "category": "Sport"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b007t9yb",
+    "guidance": false,
+    "subtitle": "2019/20: 11/08/2019",
+    "synopses": {
+      "large": "Highlights of the final three matches of the opening weekend of the new Premier League season, including Frank Lampard’s league debut as Chelsea boss at Manchester United. \n\nLampard, Chelsea’s all-time record scorer, took his Derby side to Old Trafford last season in the League Cup, with his side winning on penalties. Can he enjoy a similar dream result in what is the highlight of the first round of games? Newcastle take on Arsenal as they adjust to life without Rafa Benitez, while 2015-16 title winners Leicester host last season’s surprise package Wolves.   ",
+      "small": "Highlights of the final three matches of the opening weekend of the new season.",
+      "medium": "Highlights of the final three matches of the opening weekend of the new Premier League season, including Frank Lampard’s league debut as Chelsea boss at Manchester United. ",
+      "editorial": "Newcastle v Arsenal and Leicester v Wolves are intriguing matches on the opening weekend."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "m0007m8k",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3818,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3544,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3544,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "66 mins",
+        "value": "PT1H5M37.920S"
+      },
+      "availability": {
+        "end": "2019-08-18T23:00:00Z",
+        "start": "2019-08-11T23:00:00Z",
+        "remaining": {
+          "text": "Available until Mon 12am"
+        }
+      },
+      "credits_start": 3955,
+      "first_broadcast": "10:30pm 11 Aug 2019",
+      "first_broadcast_date_time": "2019-08-11T21:30:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "m0007m8m",
+    "tleo_type": "brand",
+    "categories": [
+      "sport"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "11 Aug 2019",
+    "related_links": [],
+    "original_title": "11/08/2019",
+    "programme_type": "unclassified",
+    "slice_subtitle": "11/08/2019",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-11T00:00:00.000Z",
+    "editorial_subtitle": "11/08/2019: Solskjaer takes on Lampard – Man Utd v Chelsea",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "position": 3
+  },
+  {
+    "id": "m0007m8b",
+    "live": false,
+    "type": "episode",
+    "title": "Poldark",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jwk76.jpg"
+    },
+    "labels": {
+      "category": "Period Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b07pn8mz",
+    "guidance": false,
+    "slice_id": "m0006wh0",
+    "subtitle": "Series 5: Episode 5",
+    "synopses": {
+      "large": "Ross returns to London with the Despards and Enyses in the hope of securing Ned and Kitty’s return to Honduras at last. When the banks start issuing paper notes instead of gold, Demelza finds herself thrown into uncharted waters with her workers and the locals, which Tess and Jacka take advantage of. Morwenna tackles the grief of being parted from her son, and Drake goes to extreme lengths to ease her suffering. Meanwhile, Geoffrey Charles makes plain his intent to marry Cecily, landing them both in trouble.\n\nGeorge gives his maiden speech in parliament, lending support to the slavery underpinning his new business venture with Hanson. Ross must take a stand against him, but Ned’s headstrong nature works against them both. As George conspires once again against his old enemy, his allies enact a plan to destroy their opposition for good.",
+      "small": "George enters a conspiracy against Ned and the Poldarks as Morwenna faces a dilemma.",
+      "medium": "George’s cabal moves to ruin the Poldarks, and Morwenna wrestles with a heavy decision.",
+      "editorial": "As George conspires against his old enemy, his allies aim to destroy their opposition."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007m88",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3408,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3175,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3175,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT58M47.800S"
+        },
+        "availability": {
+          "end": "2019-09-25T21:00:00Z",
+          "start": "2019-08-11T21:00:00Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "credits_start": 3503,
+        "first_broadcast": "9pm 11 Aug 2019",
+        "first_broadcast_date_time": "2019-08-11T20:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07k481y",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3408,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3175,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3175,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT58M47.800S"
+        },
+        "availability": {
+          "end": "2019-09-25T21:00:00Z",
+          "start": "2019-08-11T21:00:00Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "first_broadcast": "11 Aug 2019",
+        "first_broadcast_date_time": "2019-08-11T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "m0006wh0",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-classic-and-period"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "11 Aug 2019",
+    "related_links": [],
+    "original_title": "Episode 5",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 5",
+    "audio_described": true,
+    "parent_position": 5,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-11T00:00:00.000Z",
+    "editorial_subtitle": "5/8 Morwenna wrestles with a heavy decision",
+    "lexical_sort_letter": "P",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 39,
+    "position": 4
+  },
+  {
+    "id": "m0007lq4",
+    "live": false,
+    "type": "episode",
+    "title": "Match of the Day",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07kcm2y.jpg"
+    },
+    "labels": {
+      "category": "Sport"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b007t9y1",
+    "guidance": false,
+    "subtitle": "2019/20: 10/08/2019",
+    "synopses": {
+      "large": "Gary Lineker presents highlights of the opening weekend of the eagerly awaited new Premier League season.\n\nFans of promoted trio Norwich, Sheffield United and Aston Villa have spent the summer counting down the days until their top flight return, and all three are in action. Norwich kicked off proceedings on Friday night with a trip to last season’s runners-up Liverpool, with Sheffield United and Aston Villa facing respective away matches at Bournemouth and Tottenham today. 2018-19 champions Manchester City begin at West Ham, coached by ex-City manager Manuel Pellegrini, with the day’s other games seeing Burnley against Southampton, Crystal Palace versus Everton and last season’s FA Cup runners-up Watford taking on Brighton. \n",
+      "small": "Gary Lineker presents highlights of the opening weekend of the new Premier League season.",
+      "medium": "Gary Lineker presents highlights of the opening weekend of the new Premier League season, including Tottenham v Aston Villa and West Ham v Manchester City.",
+      "editorial": "Man City start their title defence at West Ham and new boys Norwich face Liverpool."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "m0007lq3",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 4986,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 4596,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 4596,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "85 mins",
+        "value": "PT1H25M6.360S"
+      },
+      "availability": {
+        "end": "2019-08-18T18:00:00Z",
+        "start": "2019-08-11T19:14:00Z",
+        "remaining": {
+          "text": "Available until Sun 7pm"
+        }
+      },
+      "credits_start": 5106,
+      "first_broadcast": "10:30pm 10 Aug 2019",
+      "first_broadcast_date_time": "2019-08-10T21:30:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "m0007fnr",
+    "tleo_type": "brand",
+    "categories": [
+      "sport"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "10 Aug 2019",
+    "related_links": [],
+    "original_title": "10/08/2019",
+    "programme_type": "unclassified",
+    "slice_subtitle": "10/08/2019",
+    "audio_described": false,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-10T00:00:00.000Z",
+    "editorial_subtitle": "10/08/2019: Let battle commence – the Premier League's back",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "position": 5
+  },
+  {
+    "id": "m0007msj",
+    "live": false,
+    "type": "episode",
+    "title": "Dragons' Den",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07k6bvd.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07jlgsn.jpg"
+    },
+    "labels": {
+      "category": "Entertainment"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006vq92",
+    "guidance": false,
+    "subtitle": "Series 17: Episode 1",
+    "synopses": {
+      "large": "Dragons’ Den is back for its seventeenth series, and a there is a new fire breather in town. Crafting queen Sara Davies, the youngest ever Dragon, joins titans of industry Peter Jones, Deborah Meaden, Touker Suleyman and Tej Lalvani in a den that is hotter than ever. \n\nIn this fierce first episode, a spiced rum entrepreneur gets the party started by giving the den a rock 'n' roll makeover. A husband and wife team bring along a four-legged friend to help them achieve their ambition for their pet food business. And a toilet gadget inventor hopes to get investment by talking dirty to the Dragons.",
+      "small": "A spiced rum entrepreneur gets the party started with a rock 'n' roll makeover.",
+      "medium": "Crafting queen Sara Davies, joins Peter Jones, Deborah Meaden, Touker Suleyman and Tej Lalvani. In this episode, a spiced rum entrepreneur gets the party started with a rock 'n' roll makeover.",
+      "editorial": "A rum entrepreneur gets the party started by giving the den a rock 'n' roll makeover."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007msg",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3408,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3175,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3175,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT58M48.040S"
+        },
+        "availability": {
+          "end": "2019-09-10T20:00:00Z",
+          "start": "2019-08-11T20:00:00Z",
+          "remaining": {
+            "text": "Available for 28 days"
+          }
+        },
+        "credits_start": 3502,
+        "first_broadcast": "8pm 11 Aug 2019",
+        "first_broadcast_date_time": "2019-08-11T19:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07k7j2y",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3408,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3175,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3175,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT58M48.040S"
+        },
+        "availability": {
+          "end": "2019-09-10T20:00:00Z",
+          "start": "2019-08-11T20:00:00Z",
+          "remaining": {
+            "text": "Available for 28 days"
+          }
+        },
+        "first_broadcast": "11 Aug 2019",
+        "first_broadcast_date_time": "2019-08-11T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "m0007msl",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "entertainment"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "11 Aug 2019",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "self-contained",
+    "slice_subtitle": "Episode 1",
+    "audio_described": true,
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-11T00:00:00.000Z",
+    "editorial_subtitle": "Crafting queen Sara Davies joins the Dragons",
+    "lexical_sort_letter": "D",
+    "requires_tv_licence": true,
+    "position": 6
+  },
+  {
+    "id": "m0007fkh",
+    "live": false,
+    "type": "episode",
+    "title": "EastEnders",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07j7d47.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m86d",
+    "guidance": false,
+    "subtitle": "08/08/2019",
+    "synopses": {
+      "large": "Mick feels the pressure of trying to please everyone, Denise struggles to adjust with Sheree on the square, and Stress mounts on Callum to perfect his upcoming nuptials.",
+      "small": "Denise struggles to adjust with Sheree on the square.",
+      "medium": "Mick feels the pressure of trying to please everyone, Denise struggles to adjust with Sheree on the square, and Stress mounts on Callum to perfect his upcoming nuptials."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007fkf",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1596,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1544,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1544,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT28M36.040S"
+        },
+        "availability": {
+          "end": "2019-09-07T19:00:00Z",
+          "start": "2019-08-08T19:00:00Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "credits_start": 1683,
+        "first_broadcast": "7:30pm 8 Aug 2019",
+        "first_broadcast_date_time": "2019-08-08T18:30:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07k2fk0",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 1596,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1544,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 1544,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "29 mins",
+          "value": "PT28M36.040S"
+        },
+        "availability": {
+          "end": "2019-09-07T19:00:00Z",
+          "start": "2019-08-08T19:00:00Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "first_broadcast": "8 Aug 2019",
+        "first_broadcast_date_time": "2019-08-08T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "b006m86d",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "8 Aug 2019",
+    "related_links": [{
+      "id": "p06zhqzc",
+      "url": "https://www.bbc.co.uk/sounds/play/p06sp3dx?ns_mchannel=pinklink&ns_source=iplayer&ns_campaign=sounds_launch&ns_linkname=eastenders&ns_fee=1",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "EastEnders: The Podcast on BBC Sounds"
+    }],
+    "original_title": "08/08/2019",
+    "programme_type": "sequential",
+    "audio_described": true,
+    "parent_position": 5968,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-08T00:00:00.000Z",
+    "editorial_subtitle": "08/08/2019: Mick feels the pressure to please everyone",
+    "lexical_sort_letter": "E",
+    "requires_tv_licence": true,
+    "position": 7
+  },
+  {
+    "id": "m0007lq0",
+    "live": false,
+    "type": "episode",
+    "title": "Casualty",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jwk5d.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b006m8wd",
+    "guidance": false,
+    "subtitle": "Series 33: Episode 46",
+    "synopses": {
+      "large": "Connie is forced to choose between her addiction and her career, Duffy has a hard day and finds herself back in the ED, and Iain takes new emergency care assistant Siobhan under his wing.",
+      "small": "Connie is forced to choose between her addiction and her career.",
+      "medium": "Connie is forced to choose between her addiction and her career, while Duffy has a hard day and finds herself back in the ED.",
+      "editorial": "Duffy has a hard day, and Iain takes new care assistant Siobhan under his wing."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007lpz",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 5306,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 4883,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 4883,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "90 mins",
+          "value": "PT1H30M26.040S"
+        },
+        "availability": {
+          "end": "2019-09-09T21:10:00Z",
+          "start": "2019-08-10T21:10:00Z",
+          "remaining": {
+            "text": "Available for 27 days"
+          }
+        },
+        "credits_start": 5392,
+        "first_broadcast": "8:40pm 10 Aug 2019",
+        "first_broadcast_date_time": "2019-08-10T19:40:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07k71hh",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 5306,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 4883,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 4883,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "90 mins",
+          "value": "PT1H30M26.040S"
+        },
+        "availability": {
+          "end": "2019-09-09T21:10:00Z",
+          "start": "2019-08-10T21:10:00Z",
+          "remaining": {
+            "text": "Available for 27 days"
+          }
+        },
+        "first_broadcast": "10 Aug 2019",
+        "first_broadcast_date_time": "2019-08-10T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "b0bg73yz",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "10 Aug 2019",
+    "related_links": [{
+      "id": "p07jt3fg",
+      "url": "https://www.bbc.co.uk/programmes/articles/4NGTkMBK89PLb9FzLJv34GV/information-and-support",
+      "kind": "priority_content",
+      "type": "link",
+      "title": "Information and Support "
+    }],
+    "original_title": "Episode 46",
+    "programme_type": "sequential",
+    "slice_subtitle": "Episode 46",
+    "audio_described": true,
+    "parent_position": 46,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-10T00:00:00.000Z",
+    "editorial_subtitle": "10/08/2019: Connie must make a life-changing decision",
+    "lexical_sort_letter": "C",
+    "requires_tv_licence": true,
+    "position": 8
+  },
+  {
+    "id": "m0007m0w",
+    "live": false,
+    "type": "episode",
+    "title": "Who Do You Think You Are?",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p01lchcf.jpg",
+      "inherited_from": "brand"
+    },
+    "labels": {
+      "category": "History"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b007t575",
+    "guidance": false,
+    "subtitle": "Series 16: 4. Kate Winslet",
+    "synopses": {
+      "large": "Oscar-winning actor Kate Winslet follows a rumour of Scandinavian ancestry on her late mum Sally’s side of the family and is delighted to find that she has Swedish heritage. But her joy turns to tears and anger when she uncovers the extreme hardships her ancestors endured, from famine to flogging and imprisonment. On her dad’s side, Kate finds a drummer boy in the Grenadier Guards and, this time, an unusually positive encounter with prison.",
+      "small": "Oscar-winning actor Kate Winslet discovers whether she has Scandinavian ancestry.",
+      "medium": "Oscar-winning actor Kate Winslet follows a rumour of Scandinavian ancestry on her mother's side of the family and is delighted to find that she has Swedish heritage.",
+      "editorial": "The actor discovers Swedish heritage – and the extreme hardships her ancestors endured."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007m0v",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3360,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3132,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3132,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M0.080S"
+        },
+        "availability": {
+          "end": "2019-09-11T21:00:00Z",
+          "start": "2019-08-12T21:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "9pm 12 Aug 2019",
+        "first_broadcast_date_time": "2019-08-12T20:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07kd458",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3360,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3132,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3132,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M0.080S"
+        },
+        "availability": {
+          "end": "2019-09-11T21:00:00Z",
+          "start": "2019-08-12T21:00:00Z",
+          "remaining": {
+            "text": "Available for 29 days"
+          }
+        },
+        "first_broadcast": "12 Aug 2019",
+        "first_broadcast_date_time": "2019-08-12T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "m00071wc",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "history"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "12 Aug 2019",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC One",
+      "scheduled_start": "2019-08-15T22:40:00.000Z"
+    },
+    "original_title": "Kate Winslet",
+    "programme_type": "self-contained",
+    "slice_subtitle": "4. Kate Winslet",
+    "audio_described": true,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-12T00:00:00.000Z",
+    "editorial_subtitle": "4/6 Kate Winslet",
+    "lexical_sort_letter": "W",
+    "requires_tv_licence": true,
+    "position": 9
+  },
+  {
+    "id": "m0007mns",
+    "live": false,
+    "type": "episode",
+    "title": "The Misadventures of Romesh Ranganathan",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jws8x.jpg"
+    },
+    "labels": {
+      "category": "Comedy"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b0b9d7ys",
+    "guidance": true,
+    "subtitle": "Series 2: 3. Bosnia and Herzegovina",
+    "synopses": {
+      "large": "Bosnia and Herzegovina, in the mind of Romesh, is a place inextricably linked with war. He had never even heard the word Bosnia until the war broke out and finds it hard to conjure any other images when he thinks about the country now. But is there more to Bosnia than bombs and bullet holes? \n\nRom is met at the airport by local guide and museum curator Skender Hatibovic, who shows him around this small corner of eastern Europe. Over the next week he slides down a mountain on his arse at a world-class ski resort, stays overnight in a 'war hostel' and meets the Bosnian who claims to have discovered the world’s largest pyramid. He tries out Sarajevo's abandoned bobsleigh track – a remnant of the 1984 Winter Olympics which were held in the city - and samples far too much delicious award-winning wine. But does he have the courage to emulate the famous Mostar divers and throw himself off the country’s iconic Stari Most Bridge?",
+      "small": "Rom meets the Bosnian who claims to have discovered the world’s largest pyramid.",
+      "medium": "In Bosnia and Herzegovina, Rom meets the Bosnian who claims to have discovered the world’s largest pyramid and stays overnight in a 'war hostel'.",
+      "editorial": "It’s inextricably linked with war – but Rom gets a new view of this corner of Europe."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007mnr",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3379,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3149,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3149,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M19.040S"
+        },
+        "guidance": {
+          "id": "L1",
+          "text": {
+            "large": "Contains some strong language.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language."
+          }
+        },
+        "availability": {
+          "end": "2020-02-17T21:00:00Z",
+          "start": "2019-08-11T21:00:00Z",
+          "remaining": {
+            "text": "Available for 6 months"
+          }
+        },
+        "credits_start": 3473,
+        "first_broadcast": "9pm 11 Aug 2019",
+        "first_broadcast_date_time": "2019-08-11T20:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07k4gh7",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3379,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3149,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3149,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M19.040S"
+        },
+        "guidance": {
+          "id": "L1",
+          "text": {
+            "large": "Contains some strong language.",
+            "small": "Has guidance",
+            "medium": "Contains some strong language."
+          }
+        },
+        "availability": {
+          "end": "2020-02-17T21:00:00Z",
+          "start": "2019-08-11T21:00:00Z",
+          "remaining": {
+            "text": "Available for 6 months"
+          }
+        },
+        "first_broadcast": "11 Aug 2019",
+        "first_broadcast_date_time": "2019-08-11T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "m00077gq",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "comedy",
+      "lifestyle"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_two",
+      "titles": {
+        "large": "BBC Two",
+        "small": "BBC Two",
+        "medium": "BBC Two"
+      },
+      "ident_id": "p06lgy8y",
+      "attribution": "bbc_two"
+    },
+    "release_date": "11 Aug 2019",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "BBC Two",
+      "scheduled_start": "2019-08-13T22:15:00.000Z"
+    },
+    "original_title": "Bosnia and Herzegovina",
+    "programme_type": "sequential",
+    "slice_subtitle": "3. Bosnia and Herzegovina",
+    "audio_described": true,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-11T00:00:00.000Z",
+    "editorial_subtitle": "3/5 Bosnia and Herzegovina",
+    "lexical_sort_letter": "M",
+    "requires_tv_licence": true,
+    "position": 10
+  },
+  {
+    "id": "m0007n47",
+    "live": false,
+    "type": "episode",
+    "title": "Numberblocks",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jl4g7.jpg"
+    },
+    "labels": {
+      "category": "CBeebies"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b08bzfnh",
+    "guidance": false,
+    "subtitle": "Series 4: 26. Sixty's High Score",
+    "synopses": {
+      "large": "It's time to meet Sixty and friends in a rocket-powered game of How Many Tens. Learn all about the numbers 60, 70, 80 and 90 with the Numberblocks.",
+      "small": "It's time to meet Sixty and friends in a rocket-powered game of How Many Tens.",
+      "medium": "It's time to meet Sixty and friends in a rocket-powered game of How Many Tens."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "m0007n46",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 180,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "5 mins",
+        "value": "PT5M0.040S"
+      },
+      "availability": {
+        "end": "2019-09-11T12:25:00Z",
+        "start": "2019-08-12T06:00:00Z",
+        "remaining": {
+          "text": "Available for 29 days"
+        }
+      },
+      "credits_start": 292,
+      "first_broadcast": "6:55am 12 Aug 2019",
+      "first_broadcast_date_time": "2019-08-12T05:55:00.000Z"
+    }],
+    "childrens": true,
+    "parent_id": "m0005y7k",
+    "tleo_type": "brand",
+    "categories": [
+      "cbeebies",
+      "childrens-cartoons",
+      "childrens-documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "cbeebies",
+      "titles": {
+        "large": "CBeebies",
+        "small": "CBeebies",
+        "medium": "CBeebies"
+      },
+      "ident_id": "p00pvbng",
+      "attribution": "cbeebies"
+    },
+    "release_date": "12 Aug 2019",
+    "related_links": [],
+    "original_title": "Sixty's High Score",
+    "programme_type": "self-contained",
+    "slice_subtitle": "26. Sixty's High Score",
+    "audio_described": false,
+    "parent_position": 26,
+    "requires_sign_in": false,
+    "release_date_time": "2019-08-12T00:00:00.000Z",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "position": 11
+  },
+  {
+    "id": "m0007fjj",
+    "live": false,
+    "type": "episode",
+    "title": "Who Do You Think You Are?",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07j86bz.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07j86g5.jpg"
+    },
+    "labels": {
+      "category": "History"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b007t575",
+    "guidance": false,
+    "subtitle": "Series 16: 3. Jack and Michael Whitehall",
+    "synopses": {
+      "large": "In a first for the series, father-and-son comedy double-act Jack and Michael Whitehall join forces to investigate their family tree. They discover the tragedy that left Jack’s great grandfather (Michael’s grandfather) an orphan. And tracing their line back to Wales in the 1830s, they find out about a Tory ancestor's role in opposing the Chartist movement for wider voting rights. ",
+      "small": "Father-and-son comedy team Jack and Michael Whitehall investigate their family tree.",
+      "medium": "In a first for the series, father-and-son comedy double-act Jack and Michael Whitehall join forces to investigate their family tree.",
+      "editorial": "The father and son discover the tragedy that left Jack’s great grandfather an orphan."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007fjh",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3372,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3143,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3143,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M11.680S"
+        },
+        "availability": {
+          "end": "2019-09-08T00:30:00Z",
+          "start": "2019-08-05T21:00:00Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "credits_start": 3467,
+        "first_broadcast": "9pm 5 Aug 2019",
+        "first_broadcast_date_time": "2019-08-05T20:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07jqg62",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3372,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3143,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3143,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M11.680S"
+        },
+        "availability": {
+          "end": "2019-09-08T00:30:00Z",
+          "start": "2019-08-05T21:00:00Z",
+          "remaining": {
+            "text": "Available for 25 days"
+          }
+        },
+        "first_broadcast": "5 Aug 2019",
+        "first_broadcast_date_time": "2019-08-05T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "m00071wc",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "history"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "5 Aug 2019",
+    "related_links": [],
+    "original_title": "Jack and Michael Whitehall",
+    "programme_type": "self-contained",
+    "slice_subtitle": "3. Jack and Michael Whitehall",
+    "audio_described": true,
+    "parent_position": 3,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-05T00:00:00.000Z",
+    "editorial_subtitle": "3/8 Jack and Michael Whitehall",
+    "lexical_sort_letter": "W",
+    "requires_tv_licence": true,
+    "position": 12
+  },
+  {
+    "id": "p07j7bpf",
+    "live": false,
+    "type": "episode",
+    "title": "How Not To Die",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07k7jhp.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07k6wzl.jpg"
+    },
+    "labels": {
+      "category": "Documentary"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "p07j71bl",
+    "guidance": false,
+    "subtitle": "How Not To Die On Holiday: 1. Moped Crash",
+    "synopses": {
+      "large": "23-year-old Ross was travelling in rural Thailand when he offered Aimie a ride on the back of his moped. The resulting crash would leave both of them with consequences that will last the rest of their lives. \n\nIn South-East Asia mopeds and motorcycles have become a popular way to travel, despite the fact they are often unlicensed and unchecked. In Thailand alone they are the cause of 44 deaths a day.",
+      "small": "23-year-old Ross was involved in a moped crash whilst travelling in rural Thailand .",
+      "medium": "23-year-old Ross was travelling in rural Thailand when he offered Aimie a ride on the back of his moped which was then involved in a crash.",
+      "editorial": "Compelling stories of survival against all the odds. Would you know how to cope?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07j7chn",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 350,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 423,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 423,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "8 mins",
+        "value": "PT7M50.400S"
+      },
+      "availability": {
+        "end": "2020-08-05T08:00:00Z",
+        "start": "2019-08-11T08:00:00Z",
+        "remaining": {
+          "text": "Available for 11 months"
+        }
+      },
+      "credits_start": 462,
+      "first_broadcast": "11 Aug 2019",
+      "first_broadcast_date_time": "2019-08-11T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07j773z",
+    "tleo_type": "brand",
+    "categories": [],
+    "has_credits": false,
+    "master_brand": {
+      "id": "bbc_three",
+      "titles": {
+        "large": "BBC Three",
+        "small": "BBC Three",
+        "medium": "BBC Three"
+      },
+      "ident_id": "p03bhqhy",
+      "attribution": "bbc_three"
+    },
+    "release_date": "11 Aug 2019",
+    "related_links": [],
+    "original_title": "Moped Crash",
+    "programme_type": "self-contained",
+    "slice_subtitle": "1. Moped Crash",
+    "audio_described": false,
+    "editorial_title": "How Not To Die On Holiday",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-11T00:00:00.000Z",
+    "editorial_subtitle": "Box Set. What would you do?",
+    "lexical_sort_letter": "H",
+    "requires_tv_licence": true,
+    "position": 13
+  },
+  {
+    "id": "m0007fnh",
+    "live": false,
+    "type": "episode",
+    "title": "Poldark",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07j7cj2.jpg"
+    },
+    "labels": {
+      "category": "Period Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b07pn8mz",
+    "guidance": false,
+    "slice_id": "m0006wh0",
+    "subtitle": "Series 5: Episode 4",
+    "synopses": {
+      "large": "Ross is given hope for the Despards' return to Honduras but finds his new nemesis Ralph Hanson has returned to Truro. Demelza continues to help the community help itself, and Dwight gains unexpected patients but his absences from home have unforeseen consequences. Morwenna, still struggling with the loss of her son, starts to secretly slip away from the village, leaving Drake to wonder where she goes.\n\nSam and Rosina become close as Rosina starts to lend a hand with the school, Geoffrey Charles and Cecily continue meeting in secret but discovering the nature of Ralph and Cary's business plan leaves them in turmoil. Meanwhile, Ralph enlists some help from Tess, and disgruntled locals to set a plot in motion to undo the Despards and the Poldarks in turn.",
+      "small": "Ralph seeks to ruin Ned as rebellion stirs and the Poldarks are trapped in the middle.",
+      "medium": "Ralph seeks to ruin Ned as rebellion stirs and the Poldarks are trapped in the middle.",
+      "editorial": "Dwight gains unexpected patients but his absences from home have unforeseen consequences."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0007fng",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3394,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3163,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3163,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT58M34.080S"
+        },
+        "availability": {
+          "end": "2019-09-25T21:00:00Z",
+          "start": "2019-08-04T21:00:00Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "credits_start": 3486,
+        "first_broadcast": "9pm 4 Aug 2019",
+        "first_broadcast_date_time": "2019-08-04T20:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07jk5l2",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3394,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3163,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3163,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "59 mins",
+          "value": "PT58M34.080S"
+        },
+        "availability": {
+          "end": "2019-09-25T21:00:00Z",
+          "start": "2019-08-04T21:00:00Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "first_broadcast": "4 Aug 2019",
+        "first_broadcast_date_time": "2019-08-04T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "m0006wh0",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-classic-and-period"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "4 Aug 2019",
+    "related_links": [],
+    "original_title": "Episode 4",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 4",
+    "audio_described": true,
+    "parent_position": 4,
+    "requires_sign_in": true,
+    "release_date_time": "2019-08-04T00:00:00.000Z",
+    "editorial_subtitle": "4/8 Rebellion stirs – with the Poldarks trapped",
+    "lexical_sort_letter": "P",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 38,
+    "position": 14
+  },
+  {
+    "id": "m0007llc",
+    "live": false,
+    "type": "episode",
+    "title": "Numberblocks",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jl0z2.jpg"
+    },
+    "labels": {
+      "category": "CBeebies"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b08bzfnh",
+    "guidance": false,
+    "subtitle": "Series 4: 27. The Big One",
+    "synopses": {
+      "large": "One has found a way to keep adding Ones all the way to Ninety-nine. But what on earth comes next? Learn to count to 99 or so with the Numberblocks.",
+      "small": "One has found a way to keep adding Ones all the way to Ninety-nine. What comes next?",
+      "medium": "One has found a way to keep adding Ones all the way to Ninety-nine. But what on earth comes next?"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "m0007llb",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 180,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "5 mins",
+        "value": "PT5M0.040S"
+      },
+      "availability": {
+        "end": "2019-09-12T12:25:00Z",
+        "start": "2019-08-12T05:55:00Z",
+        "remaining": {
+          "text": "Available for 30 days"
+        }
+      },
+      "credits_start": 292,
+      "first_broadcast": "12 Aug 2019",
+      "first_broadcast_date_time": "2019-08-12T00:00:00.000Z"
+    }],
+    "childrens": true,
+    "parent_id": "m0005y7k",
+    "tleo_type": "brand",
+    "categories": [
+      "cbeebies",
+      "childrens-cartoons",
+      "childrens-documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "cbeebies",
+      "titles": {
+        "large": "CBeebies",
+        "small": "CBeebies",
+        "medium": "CBeebies"
+      },
+      "ident_id": "p00pvbng",
+      "attribution": "cbeebies"
+    },
+    "release_date": "12 Aug 2019",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "CBeebies",
+      "scheduled_start": "2019-08-13T12:20:00.000Z"
+    },
+    "original_title": "The Big One",
+    "programme_type": "self-contained",
+    "slice_subtitle": "27. The Big One",
+    "audio_described": false,
+    "parent_position": 27,
+    "requires_sign_in": false,
+    "release_date_time": "2019-08-12T00:00:00.000Z",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "position": 15
+  },
+  {
+    "id": "m0007lkw",
+    "live": false,
+    "type": "episode",
+    "title": "Numberblocks",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jl1b1.jpg"
+    },
+    "labels": {
+      "category": "CBeebies",
+      "editorial": "Premiere"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b08bzfnh",
+    "guidance": false,
+    "subtitle": "Series 4: 28. One Hundred",
+    "synopses": {
+      "large": "One Hundred shows us what she's made of in a big song about being big. Learn all about the number 100 with the Numberblocks.",
+      "small": "One Hundred shows us what she's made of in a big song about being big.",
+      "medium": "One Hundred shows us what she's made of in a big song about being big."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "m0007lkv",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 180,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "5 mins",
+        "value": "PT5M0.040S"
+      },
+      "availability": {
+        "end": "2019-09-13T12:25:00Z",
+        "start": "2019-08-12T05:55:00Z",
+        "remaining": {
+          "text": "Available for 1 month"
+        }
+      },
+      "credits_start": 292,
+      "first_broadcast": "12 Aug 2019",
+      "first_broadcast_date_time": "2019-08-12T00:00:00.000Z"
+    }],
+    "childrens": true,
+    "parent_id": "m0005y7k",
+    "tleo_type": "brand",
+    "categories": [
+      "cbeebies",
+      "childrens-cartoons",
+      "childrens-documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "cbeebies",
+      "titles": {
+        "large": "CBeebies",
+        "small": "CBeebies",
+        "medium": "CBeebies"
+      },
+      "ident_id": "p00pvbng",
+      "attribution": "cbeebies"
+    },
+    "release_date": "12 Aug 2019",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "CBeebies",
+      "scheduled_start": "2019-08-14T05:55:00.000Z"
+    },
+    "original_title": "One Hundred",
+    "programme_type": "self-contained",
+    "slice_subtitle": "28. One Hundred",
+    "audio_described": false,
+    "parent_position": 28,
+    "requires_sign_in": false,
+    "release_date_time": "2019-08-12T00:00:00.000Z",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "position": 16
+  },
+  {
+    "id": "p07fs786",
+    "live": false,
+    "type": "episode",
+    "title": "Keeping Faith",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07h1fgm.jpg"
+    },
+    "labels": {
+      "category": "Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b09s7357",
+    "guidance": true,
+    "slice_id": "p07fpr1k",
+    "subtitle": "Series 2: Episode 6",
+    "synopses": {
+      "large": "As the clock ticks on the deal with Corran Energy, Faith (Eve Myles) races against time to find the woman who could overturn Madlen’s (Aimee-Ffion Edwards) conviction. DI Breeze (Rhashan Stone) gives Evan an ultimatum, while Steve (Mark Lewis Jones) schemes to rid himself and Faith of the Reardons for good. As Tom (Aneirin Hughes) and Lisa (Catherine Ayers) face difficult truths, Faith finally learns the truth behind Will’s murder.",
+      "small": "Faith races against time to find the woman who could overturn Madlen’s conviction.",
+      "medium": "Faith races against time to find the woman who could overturn Madlen’s conviction. As Breeze gives Evan an ultimatum, Faith finally learns the truth behind Will’s murder",
+      "editorial": "As Tom and Lisa face difficult truths, Faith finally learns the truth behind the murder."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "p07fs7dj",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 3419,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3185,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 3185,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "59 mins",
+        "value": "PT58M58.920S"
+      },
+      "guidance": {
+        "id": "L1",
+        "text": {
+          "large": "Contains some strong language.",
+          "small": "Has guidance",
+          "medium": "Contains some strong language."
+        }
+      },
+      "availability": {
+        "end": "2020-03-24T22:00:00Z",
+        "start": "2019-07-23T20:10:00Z",
+        "remaining": {
+          "text": "Available for 7 months"
+        }
+      },
+      "credits_start": 3510,
+      "first_broadcast": "23 Jul 2019",
+      "first_broadcast_date_time": "2019-07-23T00:00:00.000Z"
+    }],
+    "childrens": false,
+    "parent_id": "p07fpr1k",
+    "tleo_type": "brand",
+    "categories": [
+      "drama-and-soaps",
+      "wales"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one_wales",
+      "titles": {
+        "large": "BBC One Wales",
+        "small": "BBC One",
+        "medium": "BBC One Wales"
+      },
+      "attribution": "bbc_one_wales"
+    },
+    "release_date": "23 Jul 2019",
+    "related_links": [],
+    "original_title": "Episode 6",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 6",
+    "audio_described": false,
+    "parent_position": 6,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-23T00:00:00.000Z",
+    "editorial_subtitle": "6/6 Faith races against time. Can she save Madlen?",
+    "lexical_sort_letter": "K",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 16,
+    "position": 17
+  },
+  {
+    "id": "m0007ll3",
+    "live": false,
+    "type": "episode",
+    "title": "Numberblocks",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jl1kw.jpg"
+    },
+    "labels": {
+      "category": "CBeebies",
+      "editorial": "Premiere"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b08bzfnh",
+    "guidance": false,
+    "subtitle": "Series 4: 30. More to Explore",
+    "synopses": {
+      "large": "It's time for the grand finale but the number fun doesn't stop here: there's so much more to explore! Step into the wonderful, wider world of numbers with the Numberblocks.",
+      "small": "It's time for the grand finale but the number fun doesn't stop here.",
+      "medium": "It's time for the grand finale but the number fun doesn't stop here - there's so much more to explore!"
+    },
+    "versions": [{
+      "hd": true,
+      "id": "m0007ll2",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 180,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "5 mins",
+        "value": "PT5M0.040S"
+      },
+      "availability": {
+        "end": "2019-09-15T12:25:00Z",
+        "start": "2019-08-12T05:55:00Z",
+        "remaining": {
+          "text": "Available for 1 month"
+        }
+      },
+      "credits_start": 292,
+      "first_broadcast": "12 Aug 2019",
+      "first_broadcast_date_time": "2019-08-12T00:00:00.000Z"
+    }],
+    "childrens": true,
+    "parent_id": "m0005y7k",
+    "tleo_type": "brand",
+    "categories": [
+      "cbeebies",
+      "childrens-cartoons",
+      "childrens-documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "cbeebies",
+      "titles": {
+        "large": "CBeebies",
+        "small": "CBeebies",
+        "medium": "CBeebies"
+      },
+      "ident_id": "p00pvbng",
+      "attribution": "cbeebies"
+    },
+    "release_date": "12 Aug 2019",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "CBeebies",
+      "scheduled_start": "2019-08-16T05:55:00.000Z"
+    },
+    "original_title": "More to Explore",
+    "programme_type": "self-contained",
+    "slice_subtitle": "30. More to Explore",
+    "audio_described": false,
+    "parent_position": 30,
+    "requires_sign_in": false,
+    "release_date_time": "2019-08-12T00:00:00.000Z",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "position": 18
+  },
+  {
+    "id": "m0006wgz",
+    "live": false,
+    "type": "episode",
+    "title": "Poldark",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07j4yzp.jpg",
+      "programme_logo": "https://ichef.bbci.co.uk/images/ic/640x360/p07j4zj9.jpg"
+    },
+    "labels": {
+      "category": "Period Drama"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b07pn8mz",
+    "guidance": false,
+    "slice_id": "m0006wh0",
+    "subtitle": "Series 5: Episode 1",
+    "synopses": {
+      "large": "The Poldarks look forward to life together in peace, but a plea from his old army colonel, Ned Despard, compels Ross to the capital. Arriving in London, he finds a city gripped with paranoia, and is determined to save Ned from the conspiracy that imprisoned him.\n\nAs Demelza manages their affairs in Cornwall she encounters disenchantment and a new opponent, Tess. Meanwhile, George struggles to engage with the world after Elizabeth’s death, but enters into an alliance with the merchant behind Ned’s imprisonment, Ralph Hanson,  who is involved in the slave trade.",
+      "small": "Ross challenges king and country to help a friend, whilst Cornwall burns with revolution.",
+      "medium": "The Poldarks' peaceful lives are disrupted when an old friend’s plea leads them into a world of duplicity.",
+      "programme_small": "An old friend’s plea leads Ross into a world of duplicity."
+    },
+    "versions": [{
+        "hd": true,
+        "id": "m0006wgy",
+        "uhd": false,
+        "kind": "original",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3367,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3138,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3138,
+            "system": "dax"
+          }
+        ],
+        "download": true,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M7.160S"
+        },
+        "availability": {
+          "end": "2019-09-25T21:00:00Z",
+          "start": "2019-07-14T21:00:00Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "credits_start": 3466,
+        "first_broadcast": "9pm 14 Jul 2019",
+        "first_broadcast_date_time": "2019-07-14T20:00:00.000Z"
+      },
+      {
+        "hd": false,
+        "id": "p07gp1ml",
+        "uhd": false,
+        "kind": "audio-described",
+        "type": "version",
+        "events": [{
+            "name": "started",
+            "offset": 30,
+            "system": "uas"
+          },
+          {
+            "name": "ended",
+            "offset": 3367,
+            "system": "uas"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3138,
+            "system": "optimizely"
+          },
+          {
+            "name": "iplxp-ep-started",
+            "offset": 30,
+            "system": "dax"
+          },
+          {
+            "name": "iplxp-ep-watched",
+            "offset": 3138,
+            "system": "dax"
+          }
+        ],
+        "download": false,
+        "duration": {
+          "text": "58 mins",
+          "value": "PT58M7.160S"
+        },
+        "availability": {
+          "end": "2019-09-25T21:00:00Z",
+          "start": "2019-07-14T21:00:00Z",
+          "remaining": {
+            "text": "Available for 1 month"
+          }
+        },
+        "first_broadcast": "14 Jul 2019",
+        "first_broadcast_date_time": "2019-07-14T00:00:00.000Z"
+      }
+    ],
+    "childrens": false,
+    "parent_id": "m0006wh0",
+    "tleo_type": "brand",
+    "categories": [
+      "audio-described",
+      "drama-and-soaps",
+      "drama-classic-and-period"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "bbc_one",
+      "titles": {
+        "large": "BBC One",
+        "small": "BBC One",
+        "medium": "BBC One"
+      },
+      "ident_id": "p06g87jc",
+      "attribution": "bbc_one"
+    },
+    "release_date": "14 Jul 2019",
+    "related_links": [],
+    "original_title": "Episode 1",
+    "programme_type": "narrative",
+    "slice_subtitle": "Episode 1",
+    "audio_described": true,
+    "editorial_title": "Poldark: Series 5",
+    "parent_position": 1,
+    "requires_sign_in": true,
+    "release_date_time": "2019-07-14T00:00:00.000Z",
+    "editorial_subtitle": "A new century – but will there be a hopeful future?",
+    "lexical_sort_letter": "P",
+    "requires_tv_licence": true,
+    "numeric_tleo_position": 35,
+    "position": 19
+  },
+  {
+    "id": "m0007ln6",
+    "live": false,
+    "type": "episode",
+    "title": "Numberblocks",
+    "images": {
+      "type": "image",
+      "standard": "https://ichef.bbci.co.uk/images/ic/640x360/p07jl1hb.jpg"
+    },
+    "labels": {
+      "category": "CBeebies",
+      "editorial": "Premiere"
+    },
+    "signed": false,
+    "status": "available",
+    "tleo_id": "b08bzfnh",
+    "guidance": false,
+    "subtitle": "Series 4: 29. One Thousand and One",
+    "synopses": {
+      "large": "One wonders if anyone could be bigger than One Hundred, and has a big think about some very big numbers indeed. Learn about huge numbers with the Numberblocks.",
+      "small": "One wonders if anyone could be bigger than One Hundred.",
+      "medium": "One wonders if anyone could be bigger than One Hundred, and has a big think about some very big numbers indeed."
+    },
+    "versions": [{
+      "hd": true,
+      "id": "m0007ln5",
+      "uhd": false,
+      "kind": "original",
+      "type": "version",
+      "events": [{
+          "name": "started",
+          "offset": 30,
+          "system": "uas"
+        },
+        {
+          "name": "ended",
+          "offset": 180,
+          "system": "uas"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "optimizely"
+        },
+        {
+          "name": "iplxp-ep-started",
+          "offset": 30,
+          "system": "dax"
+        },
+        {
+          "name": "iplxp-ep-watched",
+          "offset": 270,
+          "system": "dax"
+        }
+      ],
+      "download": true,
+      "duration": {
+        "text": "5 mins",
+        "value": "PT5M0.040S"
+      },
+      "availability": {
+        "end": "2019-09-14T12:25:00Z",
+        "start": "2019-08-12T05:55:00Z",
+        "remaining": {
+          "text": "Available for 1 month"
+        }
+      },
+      "credits_start": 292,
+      "first_broadcast": "12 Aug 2019",
+      "first_broadcast_date_time": "2019-08-12T00:00:00.000Z"
+    }],
+    "childrens": true,
+    "parent_id": "m0005y7k",
+    "tleo_type": "brand",
+    "categories": [
+      "cbeebies",
+      "childrens-documentaries"
+    ],
+    "has_credits": true,
+    "master_brand": {
+      "id": "cbeebies",
+      "titles": {
+        "large": "CBeebies",
+        "small": "CBeebies",
+        "medium": "CBeebies"
+      },
+      "ident_id": "p00pvbng",
+      "attribution": "cbeebies"
+    },
+    "release_date": "12 Aug 2019",
+    "related_links": [],
+    "next_broadcast": {
+      "channel_title": "CBeebies",
+      "scheduled_start": "2019-08-15T05:55:00.000Z"
+    },
+    "original_title": "One Thousand and One",
+    "programme_type": "self-contained",
+    "slice_subtitle": "29. One Thousand and One",
+    "audio_described": false,
+    "parent_position": 29,
+    "requires_sign_in": false,
+    "release_date_time": "2019-08-12T00:00:00.000Z",
+    "lexical_sort_letter": "N",
+    "requires_tv_licence": true,
+    "position": 20
+  }
+]

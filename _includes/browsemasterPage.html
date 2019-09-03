@@ -1,0 +1,74 @@
+<div class="bmPage">
+    <div class="bmVideo" style="background-image: url('{{ site.baseurl }}{{ item.background_image }}')">
+      <img src="../assets/bmGradients.png">
+      <video>
+        <source src="{{ site.baseurl }}{{ item.video }}">
+      </video>
+    </div>
+
+    <div class="bmText">
+      <!-- <div class="bmTitleImage">
+        <img src="{{ site.baseurl }}{{ item.title_image }}">
+      </div> -->
+      <div class="bmTitle">{{ item.title }}</div>
+      <!-- <div class="bmNudge">{{ item.nudge }}</div><div class="bmViews">{{ item.views }}</div> -->
+
+      <div class="bmSynopsis">{{ item.synopsis }}</div>
+
+      <div class="bmCTA">
+
+        <div class="bmCTA_button">
+          <svg width="28px" height="34px" viewBox="0 0 17 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g id="Links-within-stream" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+              <polygon id="Iconography/iPlayer-Play-24px" fill="#EBEBEB" points="0 0 0 5.33350001 5.33350001 5.33350001 5.33350001 3.14876507 13.9891038 10.6663333 5.33350001 18.185235 5.33350001 8.00025001 0 8.00025001 0 21.3333333 5.00148963 21.3333333 17.0018646 10.6663333 5.00148963 0"></polygon>
+            </g>
+          </svg>
+        </div>
+
+        <div class="bmCTA_text">
+          <div class="bmCTA_startWatching">
+            Start Watching
+          </div>
+          <div class="bmCTA_subtitle">
+            {{ item.cta }}
+          </div>
+          <div class="bmCTA_underline"></div>
+        </div>
+
+      </div>
+
+      <!-- <ul class="bmActors">
+        {% for actor in item.actors %}
+        <div class="bmActor_image">
+          <img src="{{ site.baseurl }}{{ actor.image }}">
+        </div>
+        <li class="bmActorName"> {{ actor.name }} </li>
+        {% endfor %}
+      </ul> -->
+
+    </div>
+
+    <!-- <div class="bmAward">
+      <div class="bmAward_image">
+        <img src="{{ site.baseurl }}{{ item.award_image }}">
+      </div>
+      <div class="bmAward_text">
+        {{ item.award }}
+      </div>
+    </div> -->
+
+    <div class="bmProgress">
+
+      {% for item in site.data.browsemaster %}
+
+        <div class="bmProgressBar_background">
+          <div class="bmProgressBar_fill">
+
+          </div>
+        </div>
+
+      {% endfor %}
+
+    </div>
+
+</div>

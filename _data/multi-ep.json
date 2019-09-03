@@ -1,0 +1,18 @@
+[{
+  "title": "The Capture",
+  "title_image": "assets/killingEve/logotype.png",
+  "nudge": "New Series",
+  "reason": "Hand-picked by our editors for people like you",
+  "synopsis": "A tenacious young detective begins to uncover a multi-layered conspiracy.",
+  "cta": "4 Episodes Available",
+  "background_image": [{
+    "image": "assets/theCapture/theCapture01.jpg"
+  },
+  {
+    "image": "assets/theCapture/theCapture02.jpg"
+  },
+  {
+    "image": "assets/theCapture/theCapture03.jpg"
+  }],
+  "video": "assets/theCapture/killingEve.mp4"
+}]

@@ -1,0 +1,319 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'ReithReg';
+  src: url('../assets/BBCReithSans_A_Rg.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ReithSansBold';
+  src: url("../assets/BBCReithSans_Bd.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'ReithSansCdBold';
+  src: url("../assets/BBCReithSansCd_A_Bd.ttf") format('truetype');
+}
+
+/* TV screen and containers */
+
+#tv {
+  background-color: #10101C;
+  background-image: url('../assets/background.iplayer.jpg');
+  font-family: 'ReithReg';
+  height: 1080px;
+  left: 50%;
+  margin: -540px 0 0 -960px;
+  position: absolute;
+  top: 50%;
+  width: 1920px;
+  overflow: hidden;
+}
+
+.container {
+  width: 1920px;
+  height: auto;
+  transform: translateY(-0px);
+  transition: transform 0.3s ease-in-out;
+}
+
+.channelsPage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1080px;
+  width: 1920px;
+  display: none;
+  background-image: url('../assets/channels.png');
+  background-position: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.categoriesPage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1080px;
+  width: 1920px;
+  display: none;
+  background-image: url('../assets/categories.png');
+  background-position: bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* Styles for the primary navigation */
+
+.primaryNav {
+  height: 144px;
+  padding-left: 480px;
+  position: relative;
+  width: 100%;
+  background-image: url("../assets/iplayer-logo.png");
+  background-repeat: no-repeat;
+  background-position: 88px 68px;
+  position: absolute;
+  z-index: 4;
+  opacity: 0.1;
+  transition: opacity 0.3s;
+  -webkit-transition: opacity 0.3s;
+}
+
+.primaryNav.active {
+  opacity: 1;
+  transition: opacity 0.3s;
+  -webkit-transition: opacity 0.3s;
+}
+
+.primaryNav_button {
+  color: #B2B7C4;
+  display: table-cell;
+  height: 144px;
+  font-size: 36px;
+  padding: 0 40px 32px 40px;
+  vertical-align: bottom;
+}
+
+.primaryNav_button.focus {
+  border-bottom: solid #EBEBEB 6px;
+  color: #EBEBEB;
+  padding-bottom: 26px;
+}
+
+/* browsemaster Slice styles */
+
+.browsemaster {
+  height: 800px;
+}
+
+.browsemaster_text {
+  color: #EBEBEB;
+  font-family: 'ReithSansBold';
+  font-size: 96px;
+  line-height: 88px;
+  left: 96px;
+  position: absolute;
+  top: 280px;
+}
+
+.browsemaster_subtitle {
+  font-family: 'ReithSansCdBold';
+  text-transform: uppercase;
+  color: #B2B7C4;
+  margin-top: 36px;
+  font-size: 32px;
+  line-height: 34px;
+}
+
+.browsemaster_video {
+  background-image: url("../assets/hero-killingEve.jpg");
+}
+
+.browsemaster_video video {
+  opacity: 0;
+  width: 100%;
+  transition: opacity 1s;
+}
+
+.browsemaster_video img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.browsemaster_buttonContainer {
+  text-align: center;
+  top: 600px;
+  font-size: 32px;
+  color: #EBEBEB;
+  position: absolute;
+  left: 96px;
+}
+
+.browsemaster_button {
+  width: auto;
+  display: inline-block;
+  padding: 24px 32px 24px 32px;
+  background-color: #10101C;
+  border-radius: 6px;
+}
+
+.browsemaster_button.focus {
+  background-color: #EB4997;
+}
+
+/* Carousel styles */
+
+.carousel {
+  padding-left: 96px;
+  backface-visibility: hidden;
+  opacity: 0.7;
+  height: 496px;
+  font-size: 0px;
+}
+
+.carousel.active {
+  opacity: 1;
+}
+
+.carousel.large {
+  height: 606px;
+  overflow: hidden;
+}
+
+.carouselContent {
+  width: 8000px;
+  align-items: center;
+  transform: translateX(0px);
+  transition: all 0.3s ease-in-out;
+}
+
+.carouselTitle {
+  font-size: 42px;
+  color: #EBEBEB;
+  margin-bottom: 28px;
+}
+
+/* Content item styles */
+.contentItem {
+  font-size: 0;
+  display: inline-block;
+  margin-right: 18px;
+  vertical-align: top;
+  width: 405px;
+  height: 354px;
+}
+
+.contentItem.large {
+  width: 552px;
+  height: 446px;
+}
+
+.contentImage {
+  width: 100%;
+  position: relative;
+}
+
+.contentImage img {
+  width: 100%;
+}
+
+.contentGrad {
+    background: linear-gradient(to bottom, rgba(16,16,28,0) 0%,rgba(16,16,28,0.5) 32%,rgba(16,16,28,1) 100%);
+    height: 228px;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: inherit;
+}
+
+.large .contentGrad {
+  height: 312px;
+}
+
+.contentDetail {
+  color: #B2B7C4;
+  padding: 0 12px;
+  position: absolute;
+  width: 405px;
+}
+
+.large .contentDetail {
+  width: 552px;
+  top: auto;
+}
+
+.contentTitle {
+  font-size: 36px;
+  line-height: 42px;
+  color: #EBEBEB;
+  margin: 12px 0 6px 0;
+}
+
+.contentSubtitle {
+  font-size: 28px;
+  line-height: 34px;
+  margin: 4px 0;
+}
+
+.contentSynopsis {
+  font-size: 28px;
+  line-height: 34px;
+  margin: 4px 0;
+  display: none;
+}
+
+.contentMetaStrip {
+  display: none;
+  font-size: 24px;
+  color: #B2B7C4;
+  margin-bottom: 4px;
+}
+
+.contentIcon {
+  background-color: #EB4997;
+  height: 80px;
+  margin-bottom: 10px;
+  display: none;
+  width: 80px;
+}
+
+.contentItem svg {
+  height: 42px;
+  width: 32px;
+  margin-top: 19px;
+  margin-left: 24px;
+}
+
+.focus .contentImage {
+  border-top: 5px solid #EB4997;
+  margin-top: -5px;
+}
+
+.focus .contentIcon {
+  display: inline-block;
+}
+
+.focus .contentGrad {
+  opacity: 1;
+}
+
+.focus .contentSubtitle {
+  display: none;
+}
+
+.focus .contentSynopsis {
+  display: block;
+}
+
+.focus .contentDetail {
+  top: auto;
+  bottom: 12px
+}
+
+.focus .contentMetaStrip {
+  display: block;
+}

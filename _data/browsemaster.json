@@ -1,0 +1,61 @@
+[{
+  "title": "Inside the Secret World of Incels",
+  "title_image": "assets/incels/logotype.png",
+  "nudge": "#2 in Documentaries",
+  "views": "50k views in last 24 hours",
+  "synopsis": "A never-before-seen look at the incel community.",
+  "cta": "Inside the Secret World of Incels",
+  "background_image": "assets/incels/incels.jpg",
+  "video": "assets/incels/incels.mp4",
+  "award": "",
+  "award_image": "assets/incels/award.png",
+  "actors": []
+},{
+  "title": "Mortimer & Whitehouse: Gone Fishing",
+  "title_image": "assets/mortimerWhitehouse/logotype.png",
+  "nudge": "#2 Trending in Comedy",
+  "views": "40k views in last 24 hours",
+  "synopsis": "Bob Mortimer and Paul Whitehouse share their life experiences while fishing.",
+  "cta": "Series 2: Episode 1",
+  "background_image": "assets/mortimerWhitehouse/mortimerWhitehouse.jpg",
+  "video": "assets/mortimerWhitehouse/mortimerWhitehouse.mp4",
+  "award": "'Completely life-affirming'",
+  "award_image": "assets/mortimerWhitehouse/award.png",
+  "actors": []
+},{
+  "title": "The Misadventures of Romesh Ranganathan",
+  "title_image": "assets/misadventuresRR/logotype.png",
+  "nudge": "#1 Trending in Comedy",
+  "views": "70k views in last 24 hours",
+  "synopsis": "Romesh Ranganathan travels to some of the most unlikely places on earth for a holiday.",
+  "cta": "Series 2: 1. Zimbabwe",
+  "background_image": "assets/misadventuresRR/misadventuresRR.jpg",
+  "video": "assets/misadventuresRR/misadventuresRR.mp4",
+  "award": "",
+  "award_image": "assets/misadventuresRR/award.png",
+  "actors": []
+},{
+  "title": "Below the Surface",
+  "title_image": "assets/belowTheSurface/logotype.png",
+  "nudge": "#1 Trending in Drama",
+  "views": "100k views in last 24 hours",
+  "synopsis": "Danish thriller series.",
+  "cta": "Series 2: Episode 1",
+  "background_image": "assets/belowTheSurface/belowTheSurface.jpg",
+  "video": "assets/belowTheSurface/belowTheSurface.mp4",
+  "award": "",
+  "award_image": "",
+  "actors": []
+},{
+  "title": "Stacey Dooley Investigates",
+  "title_image": "assets/staceyDooley/logotype.png",
+  "nudge": "#1 Trending in Documentaries",
+  "views": "65k views in last 24 hours",
+  "synopsis": "Stacey Dooley meets young women sent on suicide bombing missions by Boko Haram.",
+  "cta": "Nigeria's Female Suicide…",
+  "background_image": "assets/staceyDooley/staceyDooley.jpg",
+  "video": "assets/staceyDooley/staceyDooley_1.mp4",
+  "award": "",
+  "award_image": "",
+  "actors": []
+}]
