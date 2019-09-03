@@ -1,6 +1,5 @@
 [{
   "title": "Peaky Blinders",
-  "title_image": "assets/theCapture/logotype.png",
   "nudge": "New Series",
   "reason": "Hand-picked by our editors for people like you",
   "synopsis": "An epic gangster drama set in the lawless streets of 1920s Birmingham.",
@@ -8,7 +7,6 @@
   "background_image": "assets/peakyBlinders/peakyBlinders.jpg"
 },{
   "title": "Celebrity MasterChef",
-  "title_image": "assets/theCapture/logotype.png",
   "nudge": "New Series",
   "reason": "Hand-picked by our editors for people like you",
   "synopsis": "Zandra Rhodes, Neil Ruddock, Joey Essex, Oti Mabuse and Andy Grant arrive at the kitchen.",
@@ -16,7 +14,6 @@
   "background_image": "assets/masterChef/masterChef.jpg"
 },{
   "title": "The Rap Game UK",
-  "title_image": "assets/theCapture/logotype.png",
   "nudge": "New Series",
   "reason": "Hand-picked by our editors for people like you",
   "synopsis": "Rap legends DJ Target, Krept & Konan suss out the UK’s new rap superstar.",
@@ -24,7 +21,6 @@
   "background_image": "assets/rapUK/rapUK.jpg"
 },{
   "title": "Untouchable: The Rise and Fall of Harvey Weinstein",
-  "title_image": "assets/untouchable/untouchable.png",
   "nudge": "New Series",
   "reason": "Hand-picked by our editors for people like you",
   "synopsis": "Candid and often painful testimony – the inside story of Weinstein’s alleged abuse.",
@@ -32,7 +28,6 @@
   "background_image": "assets/untouchable/untouchable.jpg"
 },{
   "title": "Live Lounge",
-  "title_image": "assets/theCapture/logotype.png",
   "nudge": "New Series",
   "reason": "Hand-picked by our editors for people like you",
   "synopsis": "Taylor Swift kicks off the start of Live Lounge month from New York.",
