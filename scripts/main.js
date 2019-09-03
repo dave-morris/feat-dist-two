@@ -133,7 +133,7 @@ $(document).ready(function() {
     var slideshow = setInterval(function() {
 
       //after the interval fade the visible image to the next image
-      $('.bmVideo.slideshow img').eq(currentImg).fadeOut(400);
+      $('.bmVideo.slideshow img').eq(currentImg).fadeOut(600);
 
       //increase variable to the next image
       currentImg = currentImg+1;
@@ -145,16 +145,47 @@ $(document).ready(function() {
         currentImg = 0;
 
         //Fade in the next image
-        $('.bmVideo.slideshow img').eq(currentImg).fadeIn(400);
+        $('.bmVideo.slideshow img').eq(currentImg).fadeIn(600);
 
       } else {
 
         //Fade in the next image
-        $('.bmVideo.slideshow img').eq(currentImg).fadeIn(400);
+        $('.bmVideo.slideshow img').eq(currentImg).fadeIn(600);
 
       }
 
     }, 4000);
+
+  }
+
+  function startSeriesSlide() {
+
+    //get the number of items in the header
+    var totalPage = $('.bmPage.multiSeries').length;
+
+
+    //start the interval
+    setInterval(function () {
+
+      //get the item which is currently displayed
+      var currentPage = $('.bmPage.multiSeries:visible').index() + 1;
+      var durationFade = 400;
+
+      //Get the next visible Browsemaster Page
+      if (currentPage == totalPage){
+
+        console.log("Back to the beginning");
+
+        $('.bmPage.multiSeries:visible').fadeOut(durationFade);
+        $('.bmPage.multiSeries').eq(0).fadeIn(durationFade);
+
+      } else {
+
+        $('.bmPage.multiSeries:visible').fadeOut(durationFade).next().fadeIn(durationFade);
+
+      }
+
+    }, 6000);
 
   }
 
@@ -436,5 +467,11 @@ $(document).ready(function() {
     startSlideshow();
 
   }
-  
+
+  if ($('.bmPage').hasClass('multiSeries')) {
+
+    startSeriesSlide();
+
+  }
+
 });

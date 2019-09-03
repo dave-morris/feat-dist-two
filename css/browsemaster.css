@@ -59,8 +59,8 @@
   position: absolute;
   bottom: 12px;
   left: 96px;
-  max-width: 540px;
-  font-size: 24px;
+  max-width: 620px;
+  font-size: 26px;
 }
 
 .bmText.bmText_middle {
@@ -69,7 +69,7 @@
 
 .bmTitle {
   font-size: 52px;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
 .bmTitleImage {
@@ -98,8 +98,8 @@
 }
 
 .bmSynopsis {
-  font-size: 28px;
-  margin-bottom: 28px;
+  font-size: 32px;
+  margin-bottom: 32px;
   opacity: 1;
   transition: opacity 0.3s ease-in-out;
 }
@@ -209,6 +209,10 @@
   text-align: center;
 }
 
+.bmProgress.bmProgress_multiEp {
+  justify-content: center;
+}
+
 .bmProgressBar_background {
   align-items: center;
   background-color: #EBEBEB;
@@ -219,11 +223,26 @@
   overflow: hidden;
 }
 
+.bmProgress_multiEp .bmProgressBar_background {
+  margin-right: 16px;
+}
+
+.bmProgress_multiEp .bmProgressBar_background:first-child {
+  opacity: 1;
+}
+
+.bmProgress_multiEp .bmProgressBar_background:last-child {
+  margin-right: 0px;
+}
+
+.bmProgress_multiEp .bmProgressBar_background:first-child .bmProgressBar_fill {
+  width: 100%;
+}
+
 .bmProgressBar_fill {
   height: 100%;
   background-color: #EB4997;
   width: 0%;
-  display: none;
   border-radius: 4px;
-  transition: width 0.5s linear;
+  /* transition: width 0.5s linear; */
 }
