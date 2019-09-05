@@ -132,7 +132,7 @@ $(document).ready(function() {
     //start the setInterval
     var slideshow = setInterval(function() {
 
-      //after the interval fade the visible image to the next image
+      //after the interval fade the visible image
       $('.bmVideo.slideshow img').eq(currentImg).fadeOut(600);
 
       //increase variable to the next image
