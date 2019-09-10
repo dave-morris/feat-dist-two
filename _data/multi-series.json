@@ -1,36 +1,36 @@
 [{
   "title": "Peaky Blinders",
   "nudge": "New Series",
-  "reason": "Hand-picked by our editors for people like you",
+  "reason": "The biggest series everyone is talking about right now",
   "synopsis": "An epic gangster drama set in the lawless streets of 1920s Birmingham.",
-  "cta": "Series 5: Episode 1",
+  "cta": "Series 5: 1. Black Tuesday",
   "background_image": "assets/peakyBlinders/peakyBlinders.jpg"
+},{
+  "title": "The Capture",
+  "nudge": "New Series",
+  "reason": "Hand-picked by our editors for people like you",
+  "synopsis": "A tenacious young detective begins to uncover a multi-layered conspiracy.",
+  "cta": "Series 1: 1. What Happens in Helmand",
+  "background_image": "assets/theCapture/theCapture.jpg"
+},{
+  "title": "The Rap Game UK",
+  "nudge": "BBC3",
+  "reason": "This new talent show is what most people are watching on BBC3 right now",
+  "synopsis": "Rap legends DJ Target, Krept & Konan suss out the UK’s new rap superstar.",
+  "cta": "Series 1: Episode 1",
+  "background_image": "assets/rapUK/rapUK.jpg"
+},{
+  "title": "The Mash Report",
+  "nudge": "Popular Comedy Series",
+  "reason": "Popular comedy series with people your age",
+  "synopsis": "The controversial satire takes a comic scythe to all the news from a world losing its mind",
+  "cta": "Series 3: Episode 1",
+  "background_image": "assets/theMashReport/theMashReport.jpg"
 },{
   "title": "Celebrity MasterChef",
   "nudge": "New Series",
   "reason": "Hand-picked by our editors for people like you",
   "synopsis": "Zandra Rhodes, Neil Ruddock, Joey Essex, Oti Mabuse and Andy Grant arrive at the kitchen.",
-  "cta": "4 Episodes Available",
+  "cta": "Series 14: Episode 1",
   "background_image": "assets/masterChef/masterChef.jpg"
-},{
-  "title": "The Rap Game UK",
-  "nudge": "New Series",
-  "reason": "Hand-picked by our editors for people like you",
-  "synopsis": "Rap legends DJ Target, Krept & Konan suss out the UK’s new rap superstar.",
-  "cta": "4 Episodes Available",
-  "background_image": "assets/rapUK/rapUK.jpg"
-},{
-  "title": "Untouchable: The Rise and Fall of Harvey Weinstein",
-  "nudge": "New Series",
-  "reason": "Hand-picked by our editors for people like you",
-  "synopsis": "Candid and often painful testimony – the inside story of Weinstein’s alleged abuse.",
-  "cta": "4 Episodes Available",
-  "background_image": "assets/untouchable/untouchable.jpg"
-},{
-  "title": "Live Lounge",
-  "nudge": "New Series",
-  "reason": "Hand-picked by our editors for people like you",
-  "synopsis": "Taylor Swift kicks off the start of Live Lounge month from New York.",
-  "cta": "Taylor Swift",
-  "background_image": "assets/liveLounge/liveLounge.jpg"
 }]

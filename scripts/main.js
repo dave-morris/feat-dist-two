@@ -4,6 +4,7 @@ $(document).ready(function() {
   carouselPosX = 0;
   focusHeight = 640;
   currentImg = 0;
+  currentPage = 0;
 
 
   $('video').each(function() {
@@ -27,7 +28,7 @@ $(document).ready(function() {
 
   function updateContainerYPos(pos) {
     containerPosY = containerPosY + pos;
-    $('.container').css('transform', 'translateY(' + containerPosY + 'px)')
+    $('.container').css('transform', 'translateY(' + containerPosY + 'px)');
   }
 
   function updateCarouselXPos(pos) {
@@ -158,6 +159,17 @@ $(document).ready(function() {
 
   }
 
+  function progressBarsSeries() {
+
+    var index = $('.bmPage.active').index();
+    var bar = $('.active .bmProgress').children().eq(index).children();
+
+    $('.active .bmProgress').children().eq(index).css('opacity', 1);
+    $('.active .bmProgress').children().eq(index).children().css('width', '100%');
+    bar.show();
+
+  }
+
   function startSeriesSlide() {
 
     //get the number of items in the header
@@ -165,27 +177,30 @@ $(document).ready(function() {
 
 
     //start the interval
-    setInterval(function () {
+    seriesInterval = setInterval(function () {
 
       //get the item which is currently displayed
-      var currentPage = $('.bmPage.multiSeries:visible').index() + 1;
+      currentPage = $('.bmPage.multiSeries:visible').index() + 1;
       var durationFade = 400;
 
-      //Get the next visible Browsemaster Page
       if (currentPage == totalPage){
-
-        console.log("Back to the beginning");
 
         $('.bmPage.multiSeries:visible').fadeOut(durationFade);
         $('.bmPage.multiSeries').eq(0).fadeIn(durationFade);
+        $('.focus').removeClass('focus');
+
+        $('.bmPage.multiSeries:visible .bmCTA').addClass('focus');
 
       } else {
 
         $('.bmPage.multiSeries:visible').fadeOut(durationFade).next().fadeIn(durationFade);
+        $('.focus').removeClass('focus');
 
       }
 
-    }, 6000);
+    }, 5500);
+
+    progressBarsSeries();
 
   }
 
@@ -207,6 +222,13 @@ $(document).ready(function() {
       $('.focus').removeClass('focus').addClass('wasfocus');
       $('.bmPage:visible').addClass('active');
       $('.active .bmCTA').addClass('focus');
+
+      if ($('.bmPage').hasClass('multiSeries')) {
+
+          clearInterval(seriesInterval);
+
+      }
+
 
       updateContainerYPos(focusHeight);
 
@@ -253,6 +275,16 @@ $(document).ready(function() {
         $('.bmPage:visible').addClass('active');
         $('.active .bmCTA').addClass('focus');
 
+        if ($('.bmPage').hasClass('multiSeries')) {
+
+          clearInterval(seriesInterval);
+
+        }
+
+        console.log("Clearing the series interval");
+
+        progressBarsSeries();
+
         // bmPlay();
         // bmProgress();
 
@@ -273,6 +305,12 @@ $(document).ready(function() {
 
       //Set container position
       updateContainerYPos(-focusHeight);
+
+      if ($('.bmPage').hasClass('multiSeries')) {
+
+        startSeriesSlide();
+
+      }
 
     } else {
 
@@ -313,6 +351,8 @@ $(document).ready(function() {
         $('.bmPage:last').show().addClass('active');
         $('.bmPage.active .bmCTA').addClass('focus');
 
+        progressBarsSeries();
+
         // bmPlay();
         // bmProgress();
 
@@ -325,6 +365,8 @@ $(document).ready(function() {
 
         // bmPlay();
         // bmProgress();
+
+        progressBarsSeries();
 
       }
 
@@ -360,6 +402,8 @@ $(document).ready(function() {
         $('.bmPage:first').show().addClass('active');
         $('.bmPage:visible .bmCTA').addClass('focus');
 
+        progressBarsSeries();
+
         // bmPlay();
         // bmProgress();
 
@@ -369,6 +413,8 @@ $(document).ready(function() {
         $('.bmPage:visible').hide().next().show();
         $('.bmPage:visible').addClass('active');
         $('.bmPage:visible .bmCTA').addClass('focus');
+
+        progressBarsSeries();
 
         // bmPlay();
         // bmProgress();
